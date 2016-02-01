@@ -1,0 +1,9 @@
+core.csrf_tokens="*.spotify.com|636515f6ce9e0773779d95a3ac0b92a0|1278096885"
+core.facebook_machine_id="-5shVAziOBkf0WAbolKxwCAk"
+core.flash_version=11
+autologin.blob="XmldXlnkqzcPtEDPu2+O7hHv2mUG9Td74CyB66MFzhPT2SQ5ZXjPnh0hfyCsuEWM"
+autologin.canonical_username="denverm80"
+autologin.username="DenverM80"
+core.clock_delta=0
+language="en"
+last_seen_client_version="0.9.17.1"

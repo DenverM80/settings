@@ -1,0 +1,1035 @@
+20150318111306.617590 ncui[p10336.t10361] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150318111312.561106 ncui[p10336.t10361] ncapp.info Version         : 7.1 
+Release Version : 7.1-0-Build18193
+Build Date/Time : Apr 25 2011
+Copyright 2001-2010 Juniper Networks
+ (ncapp.cpp:153)
+20150318111312.643772 ncui[p10336.t10361] dsclient.info state: kStateSignin (dsclient.cpp:256)
+20150318111312.643818 ncui[p10336.t10361] dsclient.info --> GET / (authenticate.cpp:179)
+20150318111312.656936 ncui[p10336.t10361] dsclient.info <-- 302 https://isecure.spectralogic.com/dana-na/auth/url_default/welcome.cgi (authenticate.cpp:211)
+20150318111312.657043 ncui[p10336.t10361] dsclient.info state: kStateWelcome (dsclient.cpp:264)
+20150318111312.657056 ncui[p10336.t10361] dsclient.info --> GET /dana-na/auth/url_default/welcome.cgi (authenticate.cpp:179)
+20150318111312.760156 ncui[p10336.t10361] dsclient.info <-- 200  (authenticate.cpp:211)
+20150318111312.760245 ncui[p10336.t10361] dsclient.info state: kStateLogin (dsclient.cpp:296)
+20150318111312.760261 ncui[p10336.t10361] dsclient.info --> POST /dana-na/auth/url_default/login.cgi (authenticate.cpp:179)
+20150318111312.831783 ncui[p10336.t10361] dsclient.info <-- 302 https://isecure.spectralogic.com/dana-na/auth/url_default/welcome.cgi?p=failed (authenticate.cpp:211)
+20150318111312.831833 ncui[p10336.t10361] dsclient.error state login failed, error 104 (dsclient.cpp:298)
+20150318111312.831914 ncui[p10336.t10361] ncapp.error Failed to connect/authenticate with IVE. Error 104 (ncapp.cpp:179)
+20150318111657.964340 ncui[p10436.t10461] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150318111702.938568 ncui[p10436.t10461] ncapp.info Version         : 7.1 
+Release Version : 7.1-0-Build18193
+Build Date/Time : Apr 25 2011
+Copyright 2001-2010 Juniper Networks
+ (ncapp.cpp:153)
+20150318111703.8326 ncui[p10436.t10461] dsclient.info state: kStateSignin (dsclient.cpp:256)
+20150318111703.8381 ncui[p10436.t10461] dsclient.info --> GET / (authenticate.cpp:179)
+20150318111703.21827 ncui[p10436.t10461] dsclient.info <-- 302 https://isecure.spectralogic.com/dana-na/auth/url_default/welcome.cgi (authenticate.cpp:211)
+20150318111703.21853 ncui[p10436.t10461] dsclient.info state: kStateWelcome (dsclient.cpp:264)
+20150318111703.21865 ncui[p10436.t10461] dsclient.info --> GET /dana-na/auth/url_default/welcome.cgi (authenticate.cpp:179)
+20150318111703.119891 ncui[p10436.t10461] dsclient.info <-- 200  (authenticate.cpp:211)
+20150318111703.119973 ncui[p10436.t10461] dsclient.info state: kStateLogin (dsclient.cpp:296)
+20150318111703.119988 ncui[p10436.t10461] dsclient.info --> POST /dana-na/auth/url_default/login.cgi (authenticate.cpp:179)
+20150318111703.192033 ncui[p10436.t10461] dsclient.info <-- 302 https://isecure.spectralogic.com/dana-na/auth/url_default/welcome.cgi?p=failed (authenticate.cpp:211)
+20150318111703.192071 ncui[p10436.t10461] dsclient.error state login failed, error 104 (dsclient.cpp:298)
+20150318111703.192155 ncui[p10436.t10461] ncapp.error Failed to connect/authenticate with IVE. Error 104 (ncapp.cpp:179)
+20150318111718.497366 ncui[p10436.t10453] ncui.info Sending kill signal (SIGQUIT) to ncsvc...  (ncapp.cpp:454)
+20150318111857.524266 ncui[p10503.t10528] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150318111902.759622 ncui[p10503.t10528] ncapp.info Version         : 7.1 
+Release Version : 7.1-0-Build18193
+Build Date/Time : Apr 25 2011
+Copyright 2001-2010 Juniper Networks
+ (ncapp.cpp:153)
+20150318111902.826289 ncui[p10503.t10528] dsclient.info state: kStateSignin (dsclient.cpp:256)
+20150318111902.826337 ncui[p10503.t10528] dsclient.info --> GET / (authenticate.cpp:179)
+20150318111902.842883 ncui[p10503.t10528] dsclient.info <-- 302 https://isecure.spectralogic.com/dana-na/auth/url_default/welcome.cgi (authenticate.cpp:211)
+20150318111902.842906 ncui[p10503.t10528] dsclient.info state: kStateWelcome (dsclient.cpp:264)
+20150318111902.842925 ncui[p10503.t10528] dsclient.info --> GET /dana-na/auth/url_default/welcome.cgi (authenticate.cpp:179)
+20150318111902.951913 ncui[p10503.t10528] dsclient.info <-- 200  (authenticate.cpp:211)
+20150318111902.952033 ncui[p10503.t10528] dsclient.info state: kStateLogin (dsclient.cpp:296)
+20150318111902.952053 ncui[p10503.t10528] dsclient.info --> POST /dana-na/auth/url_default/login.cgi (authenticate.cpp:179)
+20150318111903.26851 ncui[p10503.t10528] dsclient.info <-- 302 https://isecure.spectralogic.com/dana-na/auth/url_default/welcome.cgi?p=failed (authenticate.cpp:211)
+20150318111903.26890 ncui[p10503.t10528] dsclient.error state login failed, error 104 (dsclient.cpp:298)
+20150318111903.26972 ncui[p10503.t10528] ncapp.error Failed to connect/authenticate with IVE. Error 104 (ncapp.cpp:179)
+20150318111909.444459 ncui[p10503.t10520] ncui.info Sending kill signal (SIGQUIT) to ncsvc...  (ncapp.cpp:454)
+20150318114039.823565 ncui[p11085.t11110] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150318114045.653034 ncui[p11085.t11110] ncapp.info Version         : 7.1 
+Release Version : 7.1-0-Build18193
+Build Date/Time : Apr 25 2011
+Copyright 2001-2010 Juniper Networks
+ (ncapp.cpp:153)
+20150318114045.723179 ncui[p11085.t11110] dsssl.error ive_cert_hash = c31c754adab20276166450ccdaf70394, computed_hash = fa57866697548c86ef80600471ac51f5 (DSSSLSock.cpp:1421)
+20150318114045.723321 ncui[p11085.t11110] DSInet.error failed to connect to (isecure.spectralogic.com) error 100005 (dsinet.cpp:391)
+20150318114045.723341 ncui[p11085.t11110] dsclient.error unable to open URL: (https://isecure.spectralogic.com/) with error -7 (dsclient.cpp:244)
+20150318114045.723350 ncui[p11085.t11110] ncapp.error Failed to connect/authenticate with IVE. Error 2 (ncapp.cpp:179)
+20150318114101.963911 ncui[p11085.t11102] ncui.info Sending kill signal (SIGQUIT) to ncsvc...  (ncapp.cpp:454)
+20150319101215.286631 ncui[p4503.t4534] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150319101215.286838 ncui[p4503.t4534] ncui.info read from params...  (nccommon.cpp:121)
+20150319101215.286891 ncui[p4503.t4534] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150319101215.303779 ncui[p4503.t4534] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150319101215.304495 ncui[p4503.t4534] nccommon.error param <= 0 (nccommon.cpp:561)
+20150319101215.304553 ncui[p4503.t4534] nccommon.error param <= 0 (nccommon.cpp:561)
+20150319101217.363389 ncui[p4503.t4534] ncui.info received onConnect (ncui.cpp:419)
+20150319101219.967716 ncui[p4503.t4534] ncui.info got a disconnect request from UI (ncui.cpp:341)
+20150319101219.967718 ncui[p4503.t4526] DSInet.info IVE host 192.168.20.5 resolved to 192.168.20.5, port 443 (dsinet.cpp:311)
+20150319101219.967834 ncui[p4503.t4534] ncui.info got a disconnect request from UI (ncui.cpp:341)
+20150319101219.990294 ncui[p4503.t4526] ncui.info Sending kill signal (SIGQUIT) to ncsvc...  (ncapp.cpp:499)
+20150319101220.21061 ncui[p4503.t4534] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150319101220.21186 ncui[p4503.t4534] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150319101220.21204 ncui[p4503.t4534] ncapp.info done... (ncapp.cpp:160)
+20150327091615.11698 ncui[p4257.t4288] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150327091615.11906 ncui[p4257.t4288] ncui.info read from params...  (nccommon.cpp:121)
+20150327091615.11960 ncui[p4257.t4288] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150327091615.41012 ncui[p4257.t4288] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150327091615.41684 ncui[p4257.t4288] nccommon.error param <= 0 (nccommon.cpp:561)
+20150327091615.41732 ncui[p4257.t4288] nccommon.error param <= 0 (nccommon.cpp:561)
+20150327091617.264072 ncui[p4257.t4288] ncui.info received onConnect (ncui.cpp:419)
+20150328011708.30289 ncui[p4257.t4288] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150328011708.30578 ncui[p4257.t4288] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150328011708.30608 ncui[p4257.t4288] ncapp.info done... (ncapp.cpp:160)
+20150403075128.578535 ncui[p3276.t3307] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150403075128.578735 ncui[p3276.t3307] ncui.info read from params...  (nccommon.cpp:121)
+20150403075128.578785 ncui[p3276.t3307] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150403075128.608159 ncui[p3276.t3307] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150403075128.608754 ncui[p3276.t3307] nccommon.error param <= 0 (nccommon.cpp:561)
+20150403075128.608791 ncui[p3276.t3307] nccommon.error param <= 0 (nccommon.cpp:561)
+20150403075130.793003 ncui[p3276.t3307] ncui.info received onConnect (ncui.cpp:419)
+20150408071628.660710 ncui[p3131.t3162] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150408071628.660939 ncui[p3131.t3162] ncui.info read from params...  (nccommon.cpp:121)
+20150408071628.660989 ncui[p3131.t3162] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150408071628.710939 ncui[p3131.t3162] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150408071628.711548 ncui[p3131.t3162] nccommon.error param <= 0 (nccommon.cpp:561)
+20150408071628.711574 ncui[p3131.t3162] nccommon.error param <= 0 (nccommon.cpp:561)
+20150408071630.917866 ncui[p3131.t3162] ncui.info received onConnect (ncui.cpp:419)
+20150410145000.997792 ncui[p3148.t3179] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150410145000.997995 ncui[p3148.t3179] ncui.info read from params...  (nccommon.cpp:121)
+20150410145000.998044 ncui[p3148.t3179] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150410145001.35685 ncui[p3148.t3179] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150410145001.36323 ncui[p3148.t3179] nccommon.error param <= 0 (nccommon.cpp:561)
+20150410145001.36359 ncui[p3148.t3179] nccommon.error param <= 0 (nccommon.cpp:561)
+20150410145003.271946 ncui[p3148.t3179] ncui.info received onConnect (ncui.cpp:419)
+20150411065041.401041 ncui[p3148.t3179] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150411065041.401271 ncui[p3148.t3179] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150411065041.401288 ncui[p3148.t3179] ncapp.info done... (ncapp.cpp:160)
+20150411101752.488190 ncui[p11705.t11736] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150411101752.488224 ncui[p11705.t11736] ncui.info read from params...  (nccommon.cpp:121)
+20150411101752.488256 ncui[p11705.t11736] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150411101752.512802 ncui[p11705.t11736] ncapp.info pid of ncsvc = 3182 (ncapp.cpp:122)
+20150411101752.512852 ncui[p11705.t11736] nccommon.error param <= 0 (nccommon.cpp:561)
+20150411101752.512861 ncui[p11705.t11736] nccommon.error param <= 0 (nccommon.cpp:561)
+20150411101754.716917 ncui[p11705.t11736] ncui.info received onConnect (ncui.cpp:419)
+20150414162749.419053 ncui[p3067.t3099] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150414162749.419262 ncui[p3067.t3099] ncui.info read from params...  (nccommon.cpp:121)
+20150414162749.419315 ncui[p3067.t3099] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150414162749.514504 ncui[p3067.t3099] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150414162749.515302 ncui[p3067.t3099] nccommon.error param <= 0 (nccommon.cpp:561)
+20150414162749.515339 ncui[p3067.t3099] nccommon.error param <= 0 (nccommon.cpp:561)
+20150414162751.757642 ncui[p3067.t3099] ncui.info received onConnect (ncui.cpp:419)
+20150417081028.11204 ncui[p3104.t3297] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150417081028.14570 ncui[p3104.t3297] ncui.info read from params...  (nccommon.cpp:121)
+20150417081028.14706 ncui[p3104.t3297] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150417081028.90730 ncui[p3104.t3297] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150417081028.91607 ncui[p3104.t3297] nccommon.error param <= 0 (nccommon.cpp:561)
+20150417081028.91654 ncui[p3104.t3297] nccommon.error param <= 0 (nccommon.cpp:561)
+20150417081030.273493 ncui[p3104.t3297] ncui.info received onConnect (ncui.cpp:419)
+20150418090551.72627 ncui[p3061.t3092] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150418090551.72848 ncui[p3061.t3092] ncui.info read from params...  (nccommon.cpp:121)
+20150418090551.72898 ncui[p3061.t3092] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150418090551.99102 ncui[p3061.t3092] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150418090551.99666 ncui[p3061.t3092] nccommon.error param <= 0 (nccommon.cpp:561)
+20150418090551.99705 ncui[p3061.t3092] nccommon.error param <= 0 (nccommon.cpp:561)
+20150418090553.301341 ncui[p3061.t3092] ncui.info received onConnect (ncui.cpp:419)
+20150422093416.649590 ncui[p3276.t3307] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150422093416.649636 ncui[p3276.t3307] ncui.info read from params...  (nccommon.cpp:121)
+20150422093416.649675 ncui[p3276.t3307] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150422093416.686558 ncui[p3276.t3307] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150422093416.687144 ncui[p3276.t3307] nccommon.error param <= 0 (nccommon.cpp:561)
+20150422093416.687176 ncui[p3276.t3307] nccommon.error param <= 0 (nccommon.cpp:561)
+20150422093418.943076 ncui[p3276.t3307] ncui.info received onConnect (ncui.cpp:419)
+20150422171750.130783 ncui[p3112.t3143] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150422171750.130829 ncui[p3112.t3143] ncui.info read from params...  (nccommon.cpp:121)
+20150422171750.130870 ncui[p3112.t3143] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150422171750.203935 ncui[p3112.t3143] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150422171750.204474 ncui[p3112.t3143] nccommon.error param <= 0 (nccommon.cpp:561)
+20150422171750.204504 ncui[p3112.t3143] nccommon.error param <= 0 (nccommon.cpp:561)
+20150422171752.433377 ncui[p3112.t3143] ncui.info received onConnect (ncui.cpp:419)
+20150506095924.660733 ncui[p3545.t3576] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150506095924.664295 ncui[p3545.t3576] ncui.info read from params...  (nccommon.cpp:121)
+20150506095924.664372 ncui[p3545.t3576] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150506095924.746879 ncui[p3545.t3576] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150506095924.747500 ncui[p3545.t3576] nccommon.error param <= 0 (nccommon.cpp:561)
+20150506095924.747531 ncui[p3545.t3576] nccommon.error param <= 0 (nccommon.cpp:561)
+20150506095926.967321 ncui[p3545.t3576] ncui.info received onConnect (ncui.cpp:419)
+20150508083450.316340 ncui[p3191.t3222] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150508083450.316560 ncui[p3191.t3222] ncui.info read from params...  (nccommon.cpp:121)
+20150508083450.316610 ncui[p3191.t3222] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150508083450.400863 ncui[p3191.t3222] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150508083450.401470 ncui[p3191.t3222] nccommon.error param <= 0 (nccommon.cpp:561)
+20150508083450.401499 ncui[p3191.t3222] nccommon.error param <= 0 (nccommon.cpp:561)
+20150508083452.650784 ncui[p3191.t3222] ncui.info received onConnect (ncui.cpp:419)
+20150509003504.115902 ncui[p3191.t3222] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150509003504.116124 ncui[p3191.t3222] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150509003504.116143 ncui[p3191.t3222] ncapp.info done... (ncapp.cpp:160)
+20150509183033.275633 ncui[p21405.t21436] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150509183033.275673 ncui[p21405.t21436] ncui.info read from params...  (nccommon.cpp:121)
+20150509183033.275713 ncui[p21405.t21436] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150509183033.348542 ncui[p21405.t21436] ncapp.info pid of ncsvc = 3225 (ncapp.cpp:122)
+20150509183033.348601 ncui[p21405.t21436] nccommon.error param <= 0 (nccommon.cpp:561)
+20150509183033.348611 ncui[p21405.t21436] nccommon.error param <= 0 (nccommon.cpp:561)
+20150509183035.598248 ncui[p21405.t21436] ncui.info received onConnect (ncui.cpp:419)
+20150510103057.315570 ncui[p21405.t21436] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150510103057.315780 ncui[p21405.t21436] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150510103057.315797 ncui[p21405.t21436] ncapp.info done... (ncapp.cpp:160)
+20150510131749.402743 ncui[p29990.t30021] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150510131749.402787 ncui[p29990.t30021] ncui.info read from params...  (nccommon.cpp:121)
+20150510131749.402831 ncui[p29990.t30021] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150510131749.476556 ncui[p29990.t30021] ncapp.info pid of ncsvc = 3225 (ncapp.cpp:122)
+20150510131749.476612 ncui[p29990.t30021] nccommon.error param <= 0 (nccommon.cpp:561)
+20150510131749.476622 ncui[p29990.t30021] nccommon.error param <= 0 (nccommon.cpp:561)
+20150510131751.722589 ncui[p29990.t30021] ncui.info received onConnect (ncui.cpp:419)
+20150513092429.329374 ncui[p3782.t3813] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150513092429.329730 ncui[p3782.t3813] ncui.info read from params...  (nccommon.cpp:121)
+20150513092429.329784 ncui[p3782.t3813] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150513092429.402633 ncui[p3782.t3813] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150513092429.403389 ncui[p3782.t3813] nccommon.error param <= 0 (nccommon.cpp:561)
+20150513092429.403417 ncui[p3782.t3813] nccommon.error param <= 0 (nccommon.cpp:561)
+20150513092431.717481 ncui[p3782.t3813] ncui.info received onConnect (ncui.cpp:419)
+20150514012520.838599 ncui[p3782.t3813] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150514012520.838853 ncui[p3782.t3813] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150514012520.838872 ncui[p3782.t3813] ncapp.info done... (ncapp.cpp:160)
+20150514203743.27003 ncui[p3160.t3191] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150514203743.27382 ncui[p3160.t3191] ncui.info read from params...  (nccommon.cpp:121)
+20150514203743.27434 ncui[p3160.t3191] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150514203743.99618 ncui[p3160.t3191] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150514203743.100197 ncui[p3160.t3191] nccommon.error param <= 0 (nccommon.cpp:561)
+20150514203743.100228 ncui[p3160.t3191] nccommon.error param <= 0 (nccommon.cpp:561)
+20150514203745.356604 ncui[p3160.t3191] ncui.info received onConnect (ncui.cpp:419)
+20150518162400.374742 ncui[p3195.t3226] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150518162400.375085 ncui[p3195.t3226] ncui.info read from params...  (nccommon.cpp:121)
+20150518162400.375135 ncui[p3195.t3226] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150518162400.425965 ncui[p3195.t3226] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150518162400.426531 ncui[p3195.t3226] nccommon.error param <= 0 (nccommon.cpp:561)
+20150518162400.426555 ncui[p3195.t3226] nccommon.error param <= 0 (nccommon.cpp:561)
+20150518162402.672484 ncui[p3195.t3226] ncui.info received onConnect (ncui.cpp:419)
+20150520072338.317270 ncui[p3096.t3127] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150520072338.317654 ncui[p3096.t3127] ncui.info read from params...  (nccommon.cpp:121)
+20150520072338.317752 ncui[p3096.t3127] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150520072338.393596 ncui[p3096.t3127] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150520072338.394308 ncui[p3096.t3127] nccommon.error param <= 0 (nccommon.cpp:561)
+20150520072338.394350 ncui[p3096.t3127] nccommon.error param <= 0 (nccommon.cpp:561)
+20150520072340.652572 ncui[p3096.t3127] ncui.info received onConnect (ncui.cpp:419)
+20150521201038.710949 ncui[p3297.t3493] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150521201038.711299 ncui[p3297.t3493] ncui.info read from params...  (nccommon.cpp:121)
+20150521201038.711337 ncui[p3297.t3493] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150521201038.850777 ncui[p3297.t3493] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150521201038.851558 ncui[p3297.t3493] nccommon.error param <= 0 (nccommon.cpp:561)
+20150521201038.851599 ncui[p3297.t3493] nccommon.error param <= 0 (nccommon.cpp:561)
+20150521201041.95874 ncui[p3297.t3493] ncui.info received onConnect (ncui.cpp:419)
+20150529085724.96895 ncui[p3251.t3282] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150529085724.97255 ncui[p3251.t3282] ncui.info read from params...  (nccommon.cpp:121)
+20150529085724.97306 ncui[p3251.t3282] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150529085724.172167 ncui[p3251.t3282] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150529085724.172744 ncui[p3251.t3282] nccommon.error param <= 0 (nccommon.cpp:561)
+20150529085724.172768 ncui[p3251.t3282] nccommon.error param <= 0 (nccommon.cpp:561)
+20150529085726.425435 ncui[p3251.t3282] ncui.info received onConnect (ncui.cpp:419)
+20150530005732.752823 ncui[p3251.t3282] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150530005732.753049 ncui[p3251.t3282] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150530005732.753066 ncui[p3251.t3282] ncapp.info done... (ncapp.cpp:160)
+20150530092627.750733 ncui[p16306.t16337] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150530092627.750772 ncui[p16306.t16337] ncui.info read from params...  (nccommon.cpp:121)
+20150530092627.750814 ncui[p16306.t16337] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150530092627.800011 ncui[p16306.t16337] ncapp.info pid of ncsvc = 3285 (ncapp.cpp:122)
+20150530092627.800068 ncui[p16306.t16337] nccommon.error param <= 0 (nccommon.cpp:561)
+20150530092627.800078 ncui[p16306.t16337] nccommon.error param <= 0 (nccommon.cpp:561)
+20150530092629.990873 ncui[p16306.t16337] ncui.info received onConnect (ncui.cpp:419)
+20150530213439.992961 ncui[p16306.t16337] ncui.info received onDisconnect with reason = 6 (ncui.cpp:445)
+20150530213439.993217 ncui[p16306.t16337] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150530213439.993235 ncui[p16306.t16337] ncapp.info done... (ncapp.cpp:160)
+20150603081914.799134 ncui[p2910.t2941] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150603081914.799491 ncui[p2910.t2941] ncui.info read from params...  (nccommon.cpp:121)
+20150603081914.799542 ncui[p2910.t2941] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150603081914.852766 ncui[p2910.t2941] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150603081914.853321 ncui[p2910.t2941] nccommon.error param <= 0 (nccommon.cpp:561)
+20150603081914.853353 ncui[p2910.t2941] nccommon.error param <= 0 (nccommon.cpp:561)
+20150603081917.125368 ncui[p2910.t2941] ncui.info received onConnect (ncui.cpp:419)
+20150611183029.192172 ncui[p3342.t3374] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150611183029.192570 ncui[p3342.t3374] ncui.info read from params...  (nccommon.cpp:121)
+20150611183029.192619 ncui[p3342.t3374] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150611183029.246330 ncui[p3342.t3374] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150611183029.246939 ncui[p3342.t3374] nccommon.error param <= 0 (nccommon.cpp:561)
+20150611183029.246970 ncui[p3342.t3374] nccommon.error param <= 0 (nccommon.cpp:561)
+20150611183031.483802 ncui[p3342.t3374] ncui.info received onConnect (ncui.cpp:419)
+20150612103038.569469 ncui[p3342.t3374] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150612103038.569689 ncui[p3342.t3374] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150612103038.569707 ncui[p3342.t3374] ncapp.info done... (ncapp.cpp:160)
+20150612103301.139735 ncui[p30280.t30311] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150612103301.139771 ncui[p30280.t30311] ncui.info read from params...  (nccommon.cpp:121)
+20150612103301.139809 ncui[p30280.t30311] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150612103301.170546 ncui[p30280.t30311] ncapp.info pid of ncsvc = 3377 (ncapp.cpp:122)
+20150612103301.170610 ncui[p30280.t30311] nccommon.error param <= 0 (nccommon.cpp:561)
+20150612103301.170624 ncui[p30280.t30311] nccommon.error param <= 0 (nccommon.cpp:561)
+20150612103303.387265 ncui[p30280.t30311] ncui.info received onConnect (ncui.cpp:419)
+20150613023307.749735 ncui[p30280.t30311] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150613023307.749977 ncui[p30280.t30311] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150613023307.749994 ncui[p30280.t30311] ncapp.info done... (ncapp.cpp:160)
+20150613113512.607068 ncui[p6654.t6685] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150613113512.607106 ncui[p6654.t6685] ncui.info read from params...  (nccommon.cpp:121)
+20150613113512.607146 ncui[p6654.t6685] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150613113512.637940 ncui[p6654.t6685] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150613113512.638666 ncui[p6654.t6685] nccommon.error param <= 0 (nccommon.cpp:561)
+20150613113512.638713 ncui[p6654.t6685] nccommon.error param <= 0 (nccommon.cpp:561)
+20150613113514.871066 ncui[p6654.t6685] ncui.info received onConnect (ncui.cpp:419)
+20150614033535.929761 ncui[p6654.t6685] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150614033535.930006 ncui[p6654.t6685] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150614033535.930024 ncui[p6654.t6685] ncapp.info done... (ncapp.cpp:160)
+20150614095724.849043 ncui[p21747.t21778] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150614095724.849083 ncui[p21747.t21778] ncui.info read from params...  (nccommon.cpp:121)
+20150614095724.849126 ncui[p21747.t21778] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150614095724.901050 ncui[p21747.t21778] ncapp.info pid of ncsvc = 6688 (ncapp.cpp:122)
+20150614095724.901111 ncui[p21747.t21778] nccommon.error param <= 0 (nccommon.cpp:561)
+20150614095724.901120 ncui[p21747.t21778] nccommon.error param <= 0 (nccommon.cpp:561)
+20150614095727.98279 ncui[p21747.t21778] ncui.info received onConnect (ncui.cpp:419)
+20150615015757.981660 ncui[p21747.t21778] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150615015757.981913 ncui[p21747.t21778] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150615015757.981930 ncui[p21747.t21778] ncapp.info done... (ncapp.cpp:160)
+20150624082421.920861 ncui[p3013.t3044] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150624082421.921217 ncui[p3013.t3044] ncui.info read from params...  (nccommon.cpp:121)
+20150624082421.921265 ncui[p3013.t3044] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150624082421.990133 ncui[p3013.t3044] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150624082421.990724 ncui[p3013.t3044] nccommon.error param <= 0 (nccommon.cpp:561)
+20150624082421.990758 ncui[p3013.t3044] nccommon.error param <= 0 (nccommon.cpp:561)
+20150624082424.231719 ncui[p3013.t3044] ncui.info received onConnect (ncui.cpp:419)
+20150710100833.34867 ncui[p3171.t3202] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150710100833.35241 ncui[p3171.t3202] ncui.info read from params...  (nccommon.cpp:121)
+20150710100833.35298 ncui[p3171.t3202] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150710100833.75999 ncui[p3171.t3202] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150710100833.76546 ncui[p3171.t3202] nccommon.error param <= 0 (nccommon.cpp:561)
+20150710100833.76573 ncui[p3171.t3202] nccommon.error param <= 0 (nccommon.cpp:561)
+20150710100835.207103 ncui[p3171.t3202] ncui.info received onConnect (ncui.cpp:419)
+20150710133150.446151 ncui[p3414.t3445] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150710133150.446533 ncui[p3414.t3445] ncui.info read from params...  (nccommon.cpp:121)
+20150710133150.446598 ncui[p3414.t3445] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150710133150.488161 ncui[p3414.t3445] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150710133150.488838 ncui[p3414.t3445] nccommon.error param <= 0 (nccommon.cpp:561)
+20150710133150.488879 ncui[p3414.t3445] nccommon.error param <= 0 (nccommon.cpp:561)
+20150710133153.4356 ncui[p3414.t3445] ncui.info received onConnect (ncui.cpp:419)
+20150713102359.747667 ncui[p3834.t3897] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150713102359.748007 ncui[p3834.t3897] ncui.info read from params...  (nccommon.cpp:121)
+20150713102359.748105 ncui[p3834.t3897] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150713102359.779630 ncui[p3834.t3897] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150713102359.780240 ncui[p3834.t3897] nccommon.error param <= 0 (nccommon.cpp:561)
+20150713102359.780263 ncui[p3834.t3897] nccommon.error param <= 0 (nccommon.cpp:561)
+20150713102402.9823 ncui[p3834.t3897] ncui.info received onConnect (ncui.cpp:419)
+20150714022409.717460 ncui[p3834.t3897] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150714022409.717696 ncui[p3834.t3897] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150714022409.717714 ncui[p3834.t3897] ncapp.info done... (ncapp.cpp:160)
+20150715082007.596761 ncui[p3307.t3338] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150715082007.597137 ncui[p3307.t3338] ncui.info read from params...  (nccommon.cpp:121)
+20150715082007.597196 ncui[p3307.t3338] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150715082007.664695 ncui[p3307.t3338] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150715082007.665236 ncui[p3307.t3338] nccommon.error param <= 0 (nccommon.cpp:561)
+20150715082007.665267 ncui[p3307.t3338] nccommon.error param <= 0 (nccommon.cpp:561)
+20150715082009.905933 ncui[p3307.t3338] ncui.info received onConnect (ncui.cpp:419)
+20150716002011.836989 ncui[p3307.t3338] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150716002011.837208 ncui[p3307.t3338] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150716002011.837226 ncui[p3307.t3338] ncapp.info done... (ncapp.cpp:160)
+20150724083153.345550 ncui[p3295.t3326] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150724083153.345931 ncui[p3295.t3326] ncui.info read from params...  (nccommon.cpp:121)
+20150724083153.345985 ncui[p3295.t3326] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150724083153.396491 ncui[p3295.t3326] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150724083153.397055 ncui[p3295.t3326] nccommon.error param <= 0 (nccommon.cpp:561)
+20150724083153.397083 ncui[p3295.t3326] nccommon.error param <= 0 (nccommon.cpp:561)
+20150724083155.642588 ncui[p3295.t3326] ncui.info received onConnect (ncui.cpp:419)
+20150724165012.946849 ncui[p3487.t3518] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150724165012.947193 ncui[p3487.t3518] ncui.info read from params...  (nccommon.cpp:121)
+20150724165012.947245 ncui[p3487.t3518] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150724165013.2538 ncui[p3487.t3518] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150724165013.3135 ncui[p3487.t3518] nccommon.error param <= 0 (nccommon.cpp:561)
+20150724165013.3164 ncui[p3487.t3518] nccommon.error param <= 0 (nccommon.cpp:561)
+20150724165015.239751 ncui[p3487.t3518] ncui.info received onConnect (ncui.cpp:419)
+20150731093538.826997 ncui[p3625.t3678] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150731093538.827368 ncui[p3625.t3678] ncui.info read from params...  (nccommon.cpp:121)
+20150731093538.827421 ncui[p3625.t3678] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150731093538.879457 ncui[p3625.t3678] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150731093538.880187 ncui[p3625.t3678] nccommon.error param <= 0 (nccommon.cpp:561)
+20150731093538.880218 ncui[p3625.t3678] nccommon.error param <= 0 (nccommon.cpp:561)
+20150731093541.105896 ncui[p3625.t3678] ncui.info received onConnect (ncui.cpp:419)
+20150801013539.177567 ncui[p3625.t3678] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150801013539.177803 ncui[p3625.t3678] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150801013539.177821 ncui[p3625.t3678] ncapp.info done... (ncapp.cpp:160)
+20150805101517.319279 ncui[p4007.t4038] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150805101517.319654 ncui[p4007.t4038] ncui.info read from params...  (nccommon.cpp:121)
+20150805101517.319706 ncui[p4007.t4038] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150805101517.346818 ncui[p4007.t4038] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150805101517.347398 ncui[p4007.t4038] nccommon.error param <= 0 (nccommon.cpp:561)
+20150805101517.347432 ncui[p4007.t4038] nccommon.error param <= 0 (nccommon.cpp:561)
+20150805101519.553392 ncui[p4007.t4038] ncui.info received onConnect (ncui.cpp:419)
+20150806021430.583237 ncui[p4007.t4038] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150806021430.583478 ncui[p4007.t4038] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150806021430.583496 ncui[p4007.t4038] ncapp.info done... (ncapp.cpp:160)
+20150810095037.213449 ncui[p4269.t4300] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150810095037.213795 ncui[p4269.t4300] ncui.info read from params...  (nccommon.cpp:121)
+20150810095037.213854 ncui[p4269.t4300] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150810095037.287449 ncui[p4269.t4300] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150810095037.288004 ncui[p4269.t4300] nccommon.error param <= 0 (nccommon.cpp:561)
+20150810095037.288027 ncui[p4269.t4300] nccommon.error param <= 0 (nccommon.cpp:561)
+20150810095039.540352 ncui[p4269.t4300] ncui.info received onConnect (ncui.cpp:419)
+20150811014951.161623 ncui[p4269.t4300] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150811014951.161876 ncui[p4269.t4300] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150811014951.161893 ncui[p4269.t4300] ncapp.info done... (ncapp.cpp:160)
+20150817214630.951850 ncui[p3157.t3188] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150817214630.952208 ncui[p3157.t3188] ncui.info read from params...  (nccommon.cpp:121)
+20150817214630.952254 ncui[p3157.t3188] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150817214630.982855 ncui[p3157.t3188] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150817214630.983585 ncui[p3157.t3188] nccommon.error param <= 0 (nccommon.cpp:561)
+20150817214630.983630 ncui[p3157.t3188] nccommon.error param <= 0 (nccommon.cpp:561)
+20150817214633.208222 ncui[p3157.t3188] ncui.info received onConnect (ncui.cpp:419)
+20150818134634.289636 ncui[p3157.t3188] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150818134634.300029 ncui[p3157.t3188] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150818134634.300053 ncui[p3157.t3188] ncapp.info done... (ncapp.cpp:160)
+20150818135619.322190 ncui[p3720.t3751] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150818135619.322221 ncui[p3720.t3751] ncui.info read from params...  (nccommon.cpp:121)
+20150818135619.322254 ncui[p3720.t3751] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150818135619.350711 ncui[p3720.t3751] ncapp.info pid of ncsvc = 3191 (ncapp.cpp:122)
+20150818135619.350766 ncui[p3720.t3751] nccommon.error param <= 0 (nccommon.cpp:561)
+20150818135619.350776 ncui[p3720.t3751] nccommon.error param <= 0 (nccommon.cpp:561)
+20150818135621.598364 ncui[p3720.t3751] ncui.info received onConnect (ncui.cpp:419)
+20150819055626.44694 ncui[p3720.t3751] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150819055626.44933 ncui[p3720.t3751] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150819055626.44950 ncui[p3720.t3751] ncapp.info done... (ncapp.cpp:160)
+20150824075126.959630 ncui[p3144.t3175] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150824075126.960002 ncui[p3144.t3175] ncui.info read from params...  (nccommon.cpp:121)
+20150824075126.960057 ncui[p3144.t3175] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150824075127.9930 ncui[p3144.t3175] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150824075127.10528 ncui[p3144.t3175] nccommon.error param <= 0 (nccommon.cpp:561)
+20150824075127.10559 ncui[p3144.t3175] nccommon.error param <= 0 (nccommon.cpp:561)
+20150824075129.235145 ncui[p3144.t3175] ncui.info received onConnect (ncui.cpp:419)
+20150824235142.663739 ncui[p3144.t3175] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150824235142.663990 ncui[p3144.t3175] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150824235142.664008 ncui[p3144.t3175] ncapp.info done... (ncapp.cpp:160)
+20150825162911.278401 ncui[p4328.t4361] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150825162911.278782 ncui[p4328.t4361] ncui.info read from params...  (nccommon.cpp:121)
+20150825162911.278836 ncui[p4328.t4361] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150825162911.329613 ncui[p4328.t4361] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150825162911.330175 ncui[p4328.t4361] nccommon.error param <= 0 (nccommon.cpp:561)
+20150825162911.330199 ncui[p4328.t4361] nccommon.error param <= 0 (nccommon.cpp:561)
+20150825162913.525447 ncui[p4328.t4361] ncui.info received onConnect (ncui.cpp:419)
+20150828080326.762833 ncui[p3276.t3307] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150828080326.763169 ncui[p3276.t3307] ncui.info read from params...  (nccommon.cpp:121)
+20150828080326.763224 ncui[p3276.t3307] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150828080326.821019 ncui[p3276.t3307] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150828080326.821822 ncui[p3276.t3307] nccommon.error param <= 0 (nccommon.cpp:561)
+20150828080326.821863 ncui[p3276.t3307] nccommon.error param <= 0 (nccommon.cpp:561)
+20150828080329.18880 ncui[p3276.t3307] ncui.info received onConnect (ncui.cpp:419)
+20150829000333.725847 ncui[p3276.t3307] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150829000333.726085 ncui[p3276.t3307] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150829000333.726106 ncui[p3276.t3307] ncapp.info done... (ncapp.cpp:160)
+20150831110129.448720 ncui[p3308.t3339] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150831110129.449053 ncui[p3308.t3339] ncui.info read from params...  (nccommon.cpp:121)
+20150831110129.449105 ncui[p3308.t3339] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150831110129.485236 ncui[p3308.t3339] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150831110129.485806 ncui[p3308.t3339] nccommon.error param <= 0 (nccommon.cpp:561)
+20150831110129.485837 ncui[p3308.t3339] nccommon.error param <= 0 (nccommon.cpp:561)
+20150831110131.732837 ncui[p3308.t3339] ncui.info received onConnect (ncui.cpp:419)
+20150901030132.819100 ncui[p3308.t3339] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150901030132.819352 ncui[p3308.t3339] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150901030132.819371 ncui[p3308.t3339] ncapp.info done... (ncapp.cpp:160)
+20150903122628.201373 ncui[p4265.t4297] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150903122628.201709 ncui[p4265.t4297] ncui.info read from params...  (nccommon.cpp:121)
+20150903122628.201761 ncui[p4265.t4297] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150903122628.228275 ncui[p4265.t4297] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150903122628.228852 ncui[p4265.t4297] nccommon.error param <= 0 (nccommon.cpp:561)
+20150903122628.228890 ncui[p4265.t4297] nccommon.error param <= 0 (nccommon.cpp:561)
+20150903122630.468555 ncui[p4265.t4297] ncui.info received onConnect (ncui.cpp:419)
+20150903150828.150100 ncui[p3171.t3201] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150903150828.150431 ncui[p3171.t3201] ncui.info read from params...  (nccommon.cpp:121)
+20150903150828.150485 ncui[p3171.t3201] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150903150828.177101 ncui[p3171.t3201] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150903150828.177690 ncui[p3171.t3201] nccommon.error param <= 0 (nccommon.cpp:561)
+20150903150828.177718 ncui[p3171.t3201] nccommon.error param <= 0 (nccommon.cpp:561)
+20150903150830.400350 ncui[p3171.t3201] ncui.info received onConnect (ncui.cpp:419)
+20150904011906.538787 ncui[p3171.t3201] ncui.info received onDisconnect with reason = 6 (ncui.cpp:445)
+20150904011906.539007 ncui[p3171.t3201] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150904011906.539024 ncui[p3171.t3201] ncapp.info done... (ncapp.cpp:160)
+20150904075928.801670 ncui[p14918.t14949] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150904075928.801713 ncui[p14918.t14949] ncui.info read from params...  (nccommon.cpp:121)
+20150904075928.801756 ncui[p14918.t14949] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150904075928.828842 ncui[p14918.t14949] ncapp.info pid of ncsvc = 3204 (ncapp.cpp:122)
+20150904075928.828894 ncui[p14918.t14949] nccommon.error param <= 0 (nccommon.cpp:561)
+20150904075928.828904 ncui[p14918.t14949] nccommon.error param <= 0 (nccommon.cpp:561)
+20150904075931.46343 ncui[p14918.t14949] ncui.info received onConnect (ncui.cpp:419)
+20150904110000.267862 ncui[p3383.t3414] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150904110000.269394 ncui[p3383.t3414] ncui.info read from params...  (nccommon.cpp:121)
+20150904110000.269503 ncui[p3383.t3414] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150904110000.324027 ncui[p3383.t3414] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150904110000.324844 ncui[p3383.t3414] nccommon.error param <= 0 (nccommon.cpp:561)
+20150904110000.324886 ncui[p3383.t3414] nccommon.error param <= 0 (nccommon.cpp:561)
+20150904110002.563882 ncui[p3383.t3414] ncui.info received onConnect (ncui.cpp:419)
+20150905000009.106001 ncui[p3383.t3414] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150905000009.106235 ncui[p3383.t3414] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150905000009.106252 ncui[p3383.t3414] ncapp.info done... (ncapp.cpp:160)
+20150916084004.577317 ncui[p3519.t3550] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150916084004.577676 ncui[p3519.t3550] ncui.info read from params...  (nccommon.cpp:121)
+20150916084004.577729 ncui[p3519.t3550] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150916084004.607046 ncui[p3519.t3550] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150916084004.607602 ncui[p3519.t3550] nccommon.error param <= 0 (nccommon.cpp:561)
+20150916084004.607632 ncui[p3519.t3550] nccommon.error param <= 0 (nccommon.cpp:561)
+20150916084006.800845 ncui[p3519.t3550] ncui.info received onConnect (ncui.cpp:419)
+20150917002637.293990 ncui[p3519.t3550] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150917002637.294230 ncui[p3519.t3550] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150917002637.294248 ncui[p3519.t3550] ncapp.info done... (ncapp.cpp:160)
+20150921084302.560718 ncui[p3145.t3176] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150921084302.561081 ncui[p3145.t3176] ncui.info read from params...  (nccommon.cpp:121)
+20150921084302.561131 ncui[p3145.t3176] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150921084302.637439 ncui[p3145.t3176] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150921084302.638049 ncui[p3145.t3176] nccommon.error param <= 0 (nccommon.cpp:561)
+20150921084302.638085 ncui[p3145.t3176] nccommon.error param <= 0 (nccommon.cpp:561)
+20150921084304.894132 ncui[p3145.t3176] ncui.info received onConnect (ncui.cpp:419)
+20150921163452.234003 ncui[p3145.t3176] ncui.info received onConnect (ncui.cpp:419)
+20150928134333.112292 ncui[p3194.t3225] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150928134333.112623 ncui[p3194.t3225] ncui.info read from params...  (nccommon.cpp:121)
+20150928134333.112672 ncui[p3194.t3225] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20150928134333.141864 ncui[p3194.t3225] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20150928134333.142414 ncui[p3194.t3225] nccommon.error param <= 0 (nccommon.cpp:561)
+20150928134333.142457 ncui[p3194.t3225] nccommon.error param <= 0 (nccommon.cpp:561)
+20150928134335.363312 ncui[p3194.t3225] ncui.info received onConnect (ncui.cpp:419)
+20150929054358.147997 ncui[p3194.t3225] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20150929054358.148232 ncui[p3194.t3225] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20150929054358.148250 ncui[p3194.t3225] ncapp.info done... (ncapp.cpp:160)
+20151001145921.877193 ncui[p3161.t3192] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20151001145921.877696 ncui[p3161.t3192] ncui.info read from params...  (nccommon.cpp:121)
+20151001145921.877773 ncui[p3161.t3192] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20151001145921.912219 ncui[p3161.t3192] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20151001145921.913121 ncui[p3161.t3192] nccommon.error param <= 0 (nccommon.cpp:561)
+20151001145921.913186 ncui[p3161.t3192] nccommon.error param <= 0 (nccommon.cpp:561)
+20151001145924.165729 ncui[p3161.t3192] ncui.info received onConnect (ncui.cpp:419)
+20151002065945.847817 ncui[p3161.t3192] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20151002065945.848074 ncui[p3161.t3192] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20151002065945.848092 ncui[p3161.t3192] ncapp.info done... (ncapp.cpp:160)
+20151013142937.623308 ncui[p3849.t3880] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20151013142937.623693 ncui[p3849.t3880] ncui.info read from params...  (nccommon.cpp:121)
+20151013142937.623745 ncui[p3849.t3880] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20151013142937.650575 ncui[p3849.t3880] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20151013142937.651131 ncui[p3849.t3880] nccommon.error param <= 0 (nccommon.cpp:561)
+20151013142937.651161 ncui[p3849.t3880] nccommon.error param <= 0 (nccommon.cpp:561)
+20151013142939.877509 ncui[p3849.t3880] ncui.info received onConnect (ncui.cpp:419)
+20151014062953.306449 ncui[p3849.t3880] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20151014062953.306671 ncui[p3849.t3880] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20151014062953.306688 ncui[p3849.t3880] ncapp.info done... (ncapp.cpp:160)
+20151016075634.730096 ncui[p3565.t3595] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20151016075634.730451 ncui[p3565.t3595] ncui.info read from params...  (nccommon.cpp:121)
+20151016075634.730502 ncui[p3565.t3595] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20151016075634.781575 ncui[p3565.t3595] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20151016075634.782212 ncui[p3565.t3595] nccommon.error param <= 0 (nccommon.cpp:561)
+20151016075634.782242 ncui[p3565.t3595] nccommon.error param <= 0 (nccommon.cpp:561)
+20151016075637.12798 ncui[p3565.t3595] ncui.info received onConnect (ncui.cpp:419)
+20151016235704.430262 ncui[p3565.t3595] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20151016235704.431031 ncui[p3565.t3595] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20151016235704.431051 ncui[p3565.t3595] ncapp.info done... (ncapp.cpp:160)
+20151021151218.234049 ncui[p4094.t4125] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20151021151218.235364 ncui[p4094.t4125] ncui.info read from params...  (nccommon.cpp:121)
+20151021151218.235413 ncui[p4094.t4125] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20151021151218.305281 ncui[p4094.t4125] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20151021151218.306035 ncui[p4094.t4125] nccommon.error param <= 0 (nccommon.cpp:561)
+20151021151218.306070 ncui[p4094.t4125] nccommon.error param <= 0 (nccommon.cpp:561)
+20151021151220.540797 ncui[p4094.t4125] ncui.info received onConnect (ncui.cpp:419)
+20151022071302.483125 ncui[p4094.t4125] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20151022071302.483348 ncui[p4094.t4125] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20151022071302.483367 ncui[p4094.t4125] ncapp.info done... (ncapp.cpp:160)
+20151022080922.267075 ncui[p7247.t7278] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20151022080922.267117 ncui[p7247.t7278] ncui.info read from params...  (nccommon.cpp:121)
+20151022080922.267162 ncui[p7247.t7278] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20151022080922.348083 ncui[p7247.t7278] ncapp.info pid of ncsvc = 4128 (ncapp.cpp:122)
+20151022080922.348149 ncui[p7247.t7278] nccommon.error param <= 0 (nccommon.cpp:561)
+20151022080922.348163 ncui[p7247.t7278] nccommon.error param <= 0 (nccommon.cpp:561)
+20151022080924.596695 ncui[p7247.t7278] ncui.info received onConnect (ncui.cpp:419)
+20151029080411.710194 ncui[p3538.t3569] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20151029080411.710544 ncui[p3538.t3569] ncui.info read from params...  (nccommon.cpp:121)
+20151029080411.710590 ncui[p3538.t3569] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20151029080411.795463 ncui[p3538.t3569] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20151029080411.796086 ncui[p3538.t3569] nccommon.error param <= 0 (nccommon.cpp:561)
+20151029080411.796112 ncui[p3538.t3569] nccommon.error param <= 0 (nccommon.cpp:561)
+20151029080414.372553 ncui[p3538.t3569] ncui.info received onConnect (ncui.cpp:419)
+20151030000350.608635 ncui[p3538.t3569] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20151030000350.608876 ncui[p3538.t3569] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20151030000350.608893 ncui[p3538.t3569] ncapp.info done... (ncapp.cpp:160)
+20151104121636.556067 ncui[p20938.t20969] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20151104121636.556112 ncui[p20938.t20969] ncui.info read from params...  (nccommon.cpp:121)
+20151104121636.556161 ncui[p20938.t20969] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20151104121641.629709 ncui[p20938.t20969] ncapp.info pid of ncsvc = 3572 (ncapp.cpp:122)
+20151104121641.629778 ncui[p20938.t20969] nccommon.error param <= 0 (nccommon.cpp:561)
+20151104121641.629788 ncui[p20938.t20969] nccommon.error param <= 0 (nccommon.cpp:561)
+20151104121643.831710 ncui[p20938.t20969] ncui.info received onConnect (ncui.cpp:419)
+20151105041646.723154 ncui[p20938.t20969] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20151105041646.723421 ncui[p20938.t20969] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20151105041646.723441 ncui[p20938.t20969] ncapp.info done... (ncapp.cpp:160)
+20151110134142.888475 ncui[p4582.t4613] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20151110134142.888838 ncui[p4582.t4613] ncui.info read from params...  (nccommon.cpp:121)
+20151110134142.888887 ncui[p4582.t4613] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20151110134142.943799 ncui[p4582.t4613] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20151110134142.944521 ncui[p4582.t4613] nccommon.error param <= 0 (nccommon.cpp:561)
+20151110134142.944556 ncui[p4582.t4613] nccommon.error param <= 0 (nccommon.cpp:561)
+20151110134145.221253 ncui[p4582.t4613] ncui.info received onConnect (ncui.cpp:419)
+20151111054221.998307 ncui[p4582.t4613] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20151111054221.998562 ncui[p4582.t4613] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20151111054221.998580 ncui[p4582.t4613] ncapp.info done... (ncapp.cpp:160)
+20151111081257.597860 ncui[p8748.t8779] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20151111081257.597918 ncui[p8748.t8779] ncui.info read from params...  (nccommon.cpp:121)
+20151111081257.597963 ncui[p8748.t8779] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20151111081257.650701 ncui[p8748.t8779] ncapp.info pid of ncsvc = 4616 (ncapp.cpp:122)
+20151111081257.650762 ncui[p8748.t8779] nccommon.error param <= 0 (nccommon.cpp:561)
+20151111081257.650772 ncui[p8748.t8779] nccommon.error param <= 0 (nccommon.cpp:561)
+20151111081259.884284 ncui[p8748.t8779] ncui.info received onConnect (ncui.cpp:419)
+20151112001320.921893 ncui[p8748.t8779] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20151112001320.922127 ncui[p8748.t8779] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20151112001320.922145 ncui[p8748.t8779] ncapp.info done... (ncapp.cpp:160)
+20151117090158.346843 ncui[p3416.t3447] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20151117090158.347198 ncui[p3416.t3447] ncui.info read from params...  (nccommon.cpp:121)
+20151117090158.347251 ncui[p3416.t3447] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20151117090158.477452 ncui[p3416.t3447] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20151117090158.478065 ncui[p3416.t3447] nccommon.error param <= 0 (nccommon.cpp:561)
+20151117090158.478088 ncui[p3416.t3447] nccommon.error param <= 0 (nccommon.cpp:561)
+20151117090200.740685 ncui[p3416.t3447] ncui.info received onConnect (ncui.cpp:419)
+20151125081417.73218 ncui[p8110.t8141] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20151125081417.73551 ncui[p8110.t8141] ncui.info read from params...  (nccommon.cpp:121)
+20151125081417.73605 ncui[p8110.t8141] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20151125081417.139859 ncui[p8110.t8141] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20151125081417.140732 ncui[p8110.t8141] nccommon.error param <= 0 (nccommon.cpp:561)
+20151125081417.140764 ncui[p8110.t8141] nccommon.error param <= 0 (nccommon.cpp:561)
+20151125081419.341403 ncui[p8110.t8141] ncui.info received onConnect (ncui.cpp:419)
+20151130092622.963393 ncui[p3359.t3389] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20151130092622.963752 ncui[p3359.t3389] ncui.info read from params...  (nccommon.cpp:121)
+20151130092622.963802 ncui[p3359.t3389] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20151130092623.47003 ncui[p3359.t3389] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20151130092623.47586 ncui[p3359.t3389] nccommon.error param <= 0 (nccommon.cpp:561)
+20151130092623.47617 ncui[p3359.t3389] nccommon.error param <= 0 (nccommon.cpp:561)
+20151130092625.324500 ncui[p3359.t3389] ncui.info received onConnect (ncui.cpp:419)
+20151201012643.39594 ncui[p3359.t3389] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20151201012643.39832 ncui[p3359.t3389] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20151201012643.39850 ncui[p3359.t3389] ncapp.info done... (ncapp.cpp:160)
+20151201091203.915900 ncui[p8441.t8472] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20151201091203.915940 ncui[p8441.t8472] ncui.info read from params...  (nccommon.cpp:121)
+20151201091203.915984 ncui[p8441.t8472] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20151201091203.948914 ncui[p8441.t8472] ncapp.info pid of ncsvc = 3392 (ncapp.cpp:122)
+20151201091203.948964 ncui[p8441.t8472] nccommon.error param <= 0 (nccommon.cpp:561)
+20151201091203.948974 ncui[p8441.t8472] nccommon.error param <= 0 (nccommon.cpp:561)
+20151201091206.197539 ncui[p8441.t8472] ncui.info received onConnect (ncui.cpp:419)
+20151201150143.159963 ncui[p8441.t8472] ncui.info received onDisconnect with reason = 6 (ncui.cpp:445)
+20151201150143.160331 ncui[p8441.t8472] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20151201150143.160368 ncui[p8441.t8472] ncapp.info done... (ncapp.cpp:160)
+20151211084425.496443 ncui[p4081.t4112] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20151211084425.496792 ncui[p4081.t4112] ncui.info read from params...  (nccommon.cpp:121)
+20151211084425.496844 ncui[p4081.t4112] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20151211084425.574981 ncui[p4081.t4112] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20151211084425.575702 ncui[p4081.t4112] nccommon.error param <= 0 (nccommon.cpp:561)
+20151211084425.575733 ncui[p4081.t4112] nccommon.error param <= 0 (nccommon.cpp:561)
+20151211084427.818403 ncui[p4081.t4112] ncui.info received onConnect (ncui.cpp:419)
+20151212001359.587487 ncui[p4081.t4112] ncui.info received onDisconnect with reason = 6 (ncui.cpp:445)
+20151212001359.587767 ncui[p4081.t4112] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20151212001359.587794 ncui[p4081.t4112] ncapp.info done... (ncapp.cpp:160)
+20151215094956.143903 ncui[p4105.t4137] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20151215094956.144254 ncui[p4105.t4137] ncui.info read from params...  (nccommon.cpp:121)
+20151215094956.144307 ncui[p4105.t4137] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20151215094956.217570 ncui[p4105.t4137] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20151215094956.218172 ncui[p4105.t4137] nccommon.error param <= 0 (nccommon.cpp:561)
+20151215094956.218202 ncui[p4105.t4137] nccommon.error param <= 0 (nccommon.cpp:561)
+20151215094958.435098 ncui[p4105.t4137] ncui.info received onConnect (ncui.cpp:419)
+20151215201901.893995 ncui[p4105.t4137] ncui.info received onConnect (ncui.cpp:419)
+20151216015001.768813 ncui[p4105.t4137] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20151216015001.769025 ncui[p4105.t4137] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20151216015001.769043 ncui[p4105.t4137] ncapp.info done... (ncapp.cpp:160)
+20151221095357.600761 ncui[p3171.t3202] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20151221095357.601116 ncui[p3171.t3202] ncui.info read from params...  (nccommon.cpp:121)
+20151221095357.601171 ncui[p3171.t3202] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20151221095357.643473 ncui[p3171.t3202] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20151221095357.644058 ncui[p3171.t3202] nccommon.error param <= 0 (nccommon.cpp:561)
+20151221095357.644083 ncui[p3171.t3202] nccommon.error param <= 0 (nccommon.cpp:561)
+20151221095359.891862 ncui[p3171.t3202] ncui.info received onConnect (ncui.cpp:419)
+20151223145257.678932 ncui[p3119.t3341] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20151223145257.681728 ncui[p3119.t3341] ncui.info read from params...  (nccommon.cpp:121)
+20151223145257.681817 ncui[p3119.t3341] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20151223145257.761927 ncui[p3119.t3341] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20151223145257.762717 ncui[p3119.t3341] nccommon.error param <= 0 (nccommon.cpp:561)
+20151223145257.762749 ncui[p3119.t3341] nccommon.error param <= 0 (nccommon.cpp:561)
+20151223145300.8145 ncui[p3119.t3341] ncui.info received onConnect (ncui.cpp:419)
+20151223211650.747989 ncui[p3119.t3341] ncui.info received onDisconnect with reason = 6 (ncui.cpp:445)
+20151223211650.748237 ncui[p3119.t3341] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20151223211650.748259 ncui[p3119.t3341] ncapp.info done... (ncapp.cpp:160)
+20151224082020.64738 ncui[p4824.t4855] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20151224082020.64787 ncui[p4824.t4855] ncui.info read from params...  (nccommon.cpp:121)
+20151224082020.64836 ncui[p4824.t4855] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20151224082020.112517 ncui[p4824.t4855] ncapp.info pid of ncsvc = 3347 (ncapp.cpp:122)
+20151224082020.112583 ncui[p4824.t4855] nccommon.error param <= 0 (nccommon.cpp:561)
+20151224082020.112602 ncui[p4824.t4855] nccommon.error param <= 0 (nccommon.cpp:561)
+20151224082022.315129 ncui[p4824.t4855] ncui.info received onConnect (ncui.cpp:419)
+20151224193651.114739 ncui[p4824.t4855] ncui.info received onDisconnect with reason = 6 (ncui.cpp:445)
+20151224193651.115045 ncui[p4824.t4855] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20151224193651.115069 ncui[p4824.t4855] ncapp.info done... (ncapp.cpp:160)
+20160108090945.581101 ncui[p3534.t3565] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20160108090945.581469 ncui[p3534.t3565] ncui.info read from params...  (nccommon.cpp:121)
+20160108090945.581525 ncui[p3534.t3565] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20160108090945.610014 ncui[p3534.t3565] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20160108090945.610645 ncui[p3534.t3565] nccommon.error param <= 0 (nccommon.cpp:561)
+20160108090945.610677 ncui[p3534.t3565] nccommon.error param <= 0 (nccommon.cpp:561)
+20160108090947.876087 ncui[p3534.t3565] ncui.info received onConnect (ncui.cpp:419)
+20160109011000.75798 ncui[p3534.t3565] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20160109011000.76020 ncui[p3534.t3565] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20160109011000.76038 ncui[p3534.t3565] ncapp.info done... (ncapp.cpp:160)
+20160113084751.192016 ncui[p3508.t3539] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20160113084751.192337 ncui[p3508.t3539] ncui.info read from params...  (nccommon.cpp:121)
+20160113084751.192389 ncui[p3508.t3539] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20160113084751.220303 ncui[p3508.t3539] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20160113084751.220960 ncui[p3508.t3539] nccommon.error param <= 0 (nccommon.cpp:561)
+20160113084751.221010 ncui[p3508.t3539] nccommon.error param <= 0 (nccommon.cpp:561)
+20160113084753.495615 ncui[p3508.t3539] ncui.info received onConnect (ncui.cpp:419)
+20160113194904.625578 ncui[p3508.t3539] ncui.info received onConnect (ncui.cpp:419)
+20160113231012.385648 ncui[p3508.t3539] ncui.info received onConnect (ncui.cpp:419)
+20160114004813.744521 ncui[p3508.t3539] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20160114004813.744738 ncui[p3508.t3539] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20160114004813.744755 ncui[p3508.t3539] ncapp.info done... (ncapp.cpp:160)
+20160115134031.514153 ncui[p3407.t3446] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20160115134031.516697 ncui[p3407.t3446] ncui.info read from params...  (nccommon.cpp:121)
+20160115134031.516781 ncui[p3407.t3446] ncapp.info Version         : 8.0 
+Release Version : 8.0-9-Build34269
+Build Date/Time : Feb 12 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:220)
+20160115134031.588477 ncui[p3407.t3446] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20160115134031.589058 ncui[p3407.t3446] nccommon.error param <= 0 (nccommon.cpp:561)
+20160115134031.589091 ncui[p3407.t3446] nccommon.error param <= 0 (nccommon.cpp:561)
+20160115134033.826116 ncui[p3407.t3446] ncui.info received onConnect (ncui.cpp:419)
+20160116054122.255428 ncui[p3407.t3446] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20160116054122.255704 ncui[p3407.t3446] ncapp.info waiting for NC service to stop! (ncapp.cpp:150)
+20160116054122.255723 ncui[p3407.t3446] ncapp.info done... (ncapp.cpp:160)
+20160120085130.420358 ncui[p3139.t3170] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20160120085130.420723 ncui[p3139.t3170] ncui.info read from params...  (nccommon.cpp:121)
+20160120085130.420788 ncui[p3139.t3170] ncapp.info Version         : 8.1 
+Release Version : 8.1-7-Build41041
+Build Date/Time : Dec 17 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:224)
+20160120085130.451470 ncui[p3139.t3170] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20160120085130.452163 ncui[p3139.t3170] nccommon.error param <= 0 (nccommon.cpp:562)
+20160120085130.452204 ncui[p3139.t3170] nccommon.error param <= 0 (nccommon.cpp:562)
+20160120085132.651815 ncui[p3139.t3170] ncui.info received onConnect (ncui.cpp:419)
+20160121005148.183718 ncui[p3139.t3170] ncui.info received onDisconnect with reason = 3 (ncui.cpp:445)
+20160121005148.183970 ncui[p3139.t3170] ncapp.info waiting for NC service to stop! (ncapp.cpp:154)
+20160121005148.183991 ncui[p3139.t3170] ncapp.info done... (ncapp.cpp:164)
+20160128143930.280831 ncui[p3119.t3150] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20160128143930.281214 ncui[p3119.t3150] ncui.info read from params...  (nccommon.cpp:121)
+20160128143930.281276 ncui[p3119.t3150] ncapp.info Version         : 8.1 
+Release Version : 8.1-7-Build41041
+Build Date/Time : Dec 17 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:224)
+20160128143930.310455 ncui[p3119.t3150] ncapp.info pid of ncsvc = 0 (ncapp.cpp:122)
+20160128143930.311136 ncui[p3119.t3150] nccommon.error param <= 0 (nccommon.cpp:562)
+20160128143930.311193 ncui[p3119.t3150] nccommon.error param <= 0 (nccommon.cpp:562)
+20160128143932.610949 ncui[p3119.t3150] ncui.info received onConnect (ncui.cpp:419)
+20160128215130.858096 ncui[p3119.t3150] ncui.info received onDisconnect with reason = 6 (ncui.cpp:445)
+20160128215130.858388 ncui[p3119.t3150] ncapp.info waiting for NC service to stop! (ncapp.cpp:154)
+20160128215130.858418 ncui[p3119.t3150] ncapp.info done... (ncapp.cpp:164)
+20160129074841.44753 ncui[p9780.t9811] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20160129074841.44802 ncui[p9780.t9811] ncui.info read from params...  (nccommon.cpp:121)
+20160129074841.44859 ncui[p9780.t9811] ncapp.info Version         : 8.1 
+Release Version : 8.1-7-Build41041
+Build Date/Time : Dec 17 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:224)
+20160129074841.85786 ncui[p9780.t9811] ncapp.info pid of ncsvc = 3153 (ncapp.cpp:122)
+20160129074841.85867 ncui[p9780.t9811] nccommon.error param <= 0 (nccommon.cpp:562)
+20160129074841.85879 ncui[p9780.t9811] nccommon.error param <= 0 (nccommon.cpp:562)
+20160129074843.290400 ncui[p9780.t9811] ncui.info received onConnect (ncui.cpp:419)
+20160129182531.740536 ncui[p9780.t9811] ncui.info received onDisconnect with reason = 6 (ncui.cpp:445)
+20160129182531.740805 ncui[p9780.t9811] ncapp.info waiting for NC service to stop! (ncapp.cpp:154)
+20160129182531.740827 ncui[p9780.t9811] ncapp.info done... (ncapp.cpp:164)
+20160201081125.302203 ncui[p19775.t19806] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20160201081125.302246 ncui[p19775.t19806] ncui.info read from params...  (nccommon.cpp:121)
+20160201081125.302344 ncui[p19775.t19806] ncapp.info Version         : 8.1 
+Release Version : 8.1-7-Build41041
+Build Date/Time : Dec 17 2015
+Copyright 2001-2013 Juniper Networks
+ (ncapp.cpp:224)
+20160201081125.341666 ncui[p19775.t19806] ncapp.info pid of ncsvc = 3153 (ncapp.cpp:122)
+20160201081125.341760 ncui[p19775.t19806] nccommon.error param <= 0 (nccommon.cpp:562)
+20160201081125.341777 ncui[p19775.t19806] nccommon.error param <= 0 (nccommon.cpp:562)
+20160201081127.578675 ncui[p19775.t19806] ncui.info received onConnect (ncui.cpp:419)

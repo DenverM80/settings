@@ -1,0 +1,427 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>tron_cycle.png</name>
+    <filename>/home/denverm/Pictures/tron_cycle.png</filename>
+    <options>centered</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000000000</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Warm (LightDM)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Warm-lightdm.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Cold</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Cold.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Warm (No Logo)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Warm-no-logo.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Gulp</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Gulp.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#62627f7f5a5a</pcolor>
+    <scolor>#272758587e7e</scolor>
+    <artist>Daniel Galleguillos, Hylke Bons</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Arc</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Arc-Colors-Transparent-Wallpaper.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Cold (No Logo)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Cold-no-logo.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Cold (LightDM)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Cold-lightdm.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Garden</name>
+    <filename>/usr/share/backgrounds/mate/nature/Garden.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Charles Barbin</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Circle of Mates (Light)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/ubuntu-mate-desktop-circle_of_mates_light.png</filename>
+    <options>stretched</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Ivan Peji&#x107;</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>SM_vs_chaos.jpg</name>
+    <filename>/home/denverm/Pictures/SM_vs_chaos.jpg</filename>
+    <options>centered</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>rout.jpg</name>
+    <filename>/home/denverm/Pictures/rout.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>No Desktop Background</name>
+    <filename>(none)</filename>
+    <options>wallpaper</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#000000000000</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Gray</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Gray.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Gerard Aalders</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Waves</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Waves.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Patryk Zawadzki</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>776px-Vim_cheat_sheet.png</name>
+    <filename>/home/denverm/Pictures/776px-Vim_cheat_sheet.png</filename>
+    <options>scaled</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#000000000000</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Radioactive (LightDM)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Radioactive-lightdm.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Spring</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Spring.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Patryk Zawadzki</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Radioactive (No Logo)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Radioactive-no-logo.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Green Traditional</name>
+    <filename>/usr/share/backgrounds/mate/desktop/GreenTraditional.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>l0r4n0n</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Bjorn_the_fell_handed.jpg</name>
+    <filename>/home/denverm/Pictures/Bjorn_the_fell_handed.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Daft-Punk-Tron.png</name>
+    <filename>/home/denverm/Pictures/Daft-Punk-Tron.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Two Wings</name>
+    <filename>/usr/share/backgrounds/mate/nature/TwoWings.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Charles Barbin, Hylke Bons</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Fresh Flower</name>
+    <filename>/usr/share/backgrounds/mate/nature/FreshFlower.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Jens Ansorg</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Dark (No Logo)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Dark-no-logo.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Dark (LightDM)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Dark-lightdm.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Warm</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Warm.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Storm</name>
+    <filename>/usr/share/backgrounds/mate/nature/Storm.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Sergey Nazarov</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Dark</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Dark.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Blinds</name>
+    <filename>/usr/share/backgrounds/mate/nature/Blinds.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Lennart Poettering, Andrea Cimitan</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Float into MATE</name>
+    <filename>/usr/share/backgrounds/mate/desktop/Float-into-MATE.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Rowen Stipe</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Circle of Mates (Dark)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/ubuntu-mate-desktop-circle_of_mates_dark.png</filename>
+    <options>stretched</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Ivan Peji&#x107;</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Wood</name>
+    <filename>/usr/share/backgrounds/mate/nature/Wood.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Jean-Fran&#xE7;ois Fortin Tam</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Radioactive</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Radioactive.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Lady Bird</name>
+    <filename>/usr/share/backgrounds/mate/nature/LadyBird.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Charles Barbin</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Green Meadow</name>
+    <filename>/usr/share/backgrounds/mate/nature/GreenMeadow.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Timothy Schellhase, Lapo Calamandrei</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>tron_legacy_wallpaper_by_subuatai-d33chxu.png.jpeg</name>
+    <filename>/home/denverm/Pictures/tron_legacy_wallpaper_by_subuatai-d33chxu.png.jpeg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Aqua</name>
+    <filename>/usr/share/backgrounds/mate/nature/Aqua.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Charles Barbin</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Dune</name>
+    <filename>/usr/share/backgrounds/mate/nature/Dune.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Marco Cogoni, Hylke Bons</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Rain Drops</name>
+    <filename>/usr/share/backgrounds/mate/nature/RainDrops.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>blackcombwhistler07</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Silk</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Silk.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Patryk Zawadzki</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Stripes</name>
+    <filename>/usr/share/backgrounds/mate/desktop/Stripes.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#4444a5a52a2a</scolor>
+    <artist>Jakub Steiner</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Flow</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Flow.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Daniel Galleguillos, Hylke Bons</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ultramarines.jpg</name>
+    <filename>/home/denverm/Pictures/Ultramarines.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Cosmos</name>
+    <filename>/usr/share/backgrounds/cosmos/background-1.xml</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#000000000000</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Yellow Flower</name>
+    <filename>/usr/share/backgrounds/mate/nature/YellowFlower.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>Charles Barbin</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>leman_russ.jpg</name>
+    <filename>/home/denverm/Pictures/leman_russ.jpg</filename>
+    <options>scaled</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+</wallpapers>

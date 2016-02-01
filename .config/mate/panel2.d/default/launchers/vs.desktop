@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment=
+Terminal=false
+Name=SlickEdit
+Exec=/opt/slickedit/bin/vs
+Type=Application
+Icon=/opt/slickedit/bitmaps/vse32
+Icon[en_US]=/opt/slickedit/bitmaps/vse16.xpm

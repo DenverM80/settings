@@ -1,0 +1,1 @@
+initExtensionNames([$q('h1')]);

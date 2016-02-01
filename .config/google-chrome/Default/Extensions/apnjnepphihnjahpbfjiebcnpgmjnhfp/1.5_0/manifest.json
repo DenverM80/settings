@@ -1,0 +1,19 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "jquery.js", "mouseTrack.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "description": "a very simple mouse gestures program",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmRbYqKvW4PZ94+7ikhe6LVNGRzCyiOPS3TawMk4MlV2Kp+i1nOKOQuZ2RH75X7U+gCRKxJiDT37eDPaemrVuXttwXlw+Jal3XY3c6ewwz5Fk5Ka5kss5gJjPUoB+lqRcZPcvcoVZTMTcR+812h9+PGGFu30nQINX53SA2zRROGnrPT2lKh4J6QA0AU9qaWjpmNdTQLU3DP+Hx/X/dDGlSJ4Gtg64HE64Ao3xDnDiJMbqkoigR6RwwXrhHQnnjZYrkITJ4L4hFJTpepjvn2gh/RWNkp3ExdBrz+atP8EQ4p1GRXwv1JqQsqhiI7N8X1fpgiHMdqlSEaLIXUCB/gyJ/QIDAQAB",
+   "manifest_version": 2,
+   "name": "miniGestures",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5"
+}

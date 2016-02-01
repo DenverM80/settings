@@ -1,0 +1,4 @@
+02:32:18.988923 Log continuation - Log started 2015-11-16T18:29:52.935107000Z
+02:32:18.988981 UIMediumEnumerator:  Old usage: 2013b8b8-fbc6-4058-8dc9-a0c298a12d0a, 6b33da95-ee2b-41b5-b7c9-7c4622ea77e5
+02:32:18.995050 UIMediumEnumerator:  New usage: 6b33da95-ee2b-41b5-b7c9-7c4622ea77e5, 2013b8b8-fbc6-4058-8dc9-a0c298a12d0a
+02:32:18.995091 UIMediumEnumerator: Machine (or snapshot) event processed, ID = ae06028d-692e-48f7-b8a4-93b4b881f98d

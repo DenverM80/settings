@@ -1,0 +1,82 @@
+<monitors version="1">
+  <configuration>
+      <clone>no</clone>
+      <output name="eDP-1">
+          <vendor>LGD</vendor>
+          <product>0x0000</product>
+          <serial>0x00000000</serial>
+      </output>
+      <output name="VGA-1">
+          <vendor>VSC</vendor>
+          <product>0x0e28</product>
+          <serial>0x01010101</serial>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+      <output name="DP-1">
+          <vendor>SPT</vendor>
+          <product>0x2091</product>
+          <serial>0x00000daa</serial>
+          <width>1680</width>
+          <height>1050</height>
+          <rate>60</rate>
+          <x>1920</x>
+          <y>0</y>
+          <rotation>left</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      <output name="DP-2">
+      </output>
+  </configuration>
+  <configuration>
+      <clone>no</clone>
+      <output name="VGA-0">
+          <vendor>VSC</vendor>
+          <product>0x0e28</product>
+          <serial>0x01010101</serial>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>246</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+      <output name="DP-0">
+          <vendor>SPT</vendor>
+          <product>0x2091</product>
+          <serial>0x00000daa</serial>
+          <width>1680</width>
+          <height>1050</height>
+          <rate>60</rate>
+          <x>1920</x>
+          <y>0</y>
+          <rotation>left</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      <output name="DP-1">
+      </output>
+      <output name="DP-2">
+      </output>
+      <output name="DP-3">
+          <vendor>LGD</vendor>
+          <product>0x0000</product>
+          <serial>0x00000000</serial>
+      </output>
+      <output name="DP-4">
+      </output>
+  </configuration>
+</monitors>

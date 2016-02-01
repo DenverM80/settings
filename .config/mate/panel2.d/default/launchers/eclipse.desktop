@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=/opt/eclipse/v3.7.2_x64/icon.xpm
+Name[en_US]=Eclipse_v3.7.2
+Exec=/opt/eclipse/v3.7.2_x64/eclipse 
+Name=Eclipse_v3.7.2
+Icon=mate-panel-launcher

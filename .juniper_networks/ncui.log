@@ -1,0 +1,64 @@
+20150318111306.617590 ncui[p10336.t10361] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150318111312.561106 ncui[p10336.t10361] ncapp.info Version         : 7.1 
+Release Version : 7.1-0-Build18193
+Build Date/Time : Apr 25 2011
+Copyright 2001-2010 Juniper Networks
+ (ncapp.cpp:153)
+20150318111312.643772 ncui[p10336.t10361] dsclient.info state: kStateSignin (dsclient.cpp:256)
+20150318111312.643818 ncui[p10336.t10361] dsclient.info --> GET / (authenticate.cpp:179)
+20150318111312.656936 ncui[p10336.t10361] dsclient.info <-- 302 https://isecure.spectralogic.com/dana-na/auth/url_default/welcome.cgi (authenticate.cpp:211)
+20150318111312.657043 ncui[p10336.t10361] dsclient.info state: kStateWelcome (dsclient.cpp:264)
+20150318111312.657056 ncui[p10336.t10361] dsclient.info --> GET /dana-na/auth/url_default/welcome.cgi (authenticate.cpp:179)
+20150318111312.760156 ncui[p10336.t10361] dsclient.info <-- 200  (authenticate.cpp:211)
+20150318111312.760245 ncui[p10336.t10361] dsclient.info state: kStateLogin (dsclient.cpp:296)
+20150318111312.760261 ncui[p10336.t10361] dsclient.info --> POST /dana-na/auth/url_default/login.cgi (authenticate.cpp:179)
+20150318111312.831783 ncui[p10336.t10361] dsclient.info <-- 302 https://isecure.spectralogic.com/dana-na/auth/url_default/welcome.cgi?p=failed (authenticate.cpp:211)
+20150318111312.831833 ncui[p10336.t10361] dsclient.error state login failed, error 104 (dsclient.cpp:298)
+20150318111312.831914 ncui[p10336.t10361] ncapp.error Failed to connect/authenticate with IVE. Error 104 (ncapp.cpp:179)
+20150318111657.964340 ncui[p10436.t10461] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150318111702.938568 ncui[p10436.t10461] ncapp.info Version         : 7.1 
+Release Version : 7.1-0-Build18193
+Build Date/Time : Apr 25 2011
+Copyright 2001-2010 Juniper Networks
+ (ncapp.cpp:153)
+20150318111703.8326 ncui[p10436.t10461] dsclient.info state: kStateSignin (dsclient.cpp:256)
+20150318111703.8381 ncui[p10436.t10461] dsclient.info --> GET / (authenticate.cpp:179)
+20150318111703.21827 ncui[p10436.t10461] dsclient.info <-- 302 https://isecure.spectralogic.com/dana-na/auth/url_default/welcome.cgi (authenticate.cpp:211)
+20150318111703.21853 ncui[p10436.t10461] dsclient.info state: kStateWelcome (dsclient.cpp:264)
+20150318111703.21865 ncui[p10436.t10461] dsclient.info --> GET /dana-na/auth/url_default/welcome.cgi (authenticate.cpp:179)
+20150318111703.119891 ncui[p10436.t10461] dsclient.info <-- 200  (authenticate.cpp:211)
+20150318111703.119973 ncui[p10436.t10461] dsclient.info state: kStateLogin (dsclient.cpp:296)
+20150318111703.119988 ncui[p10436.t10461] dsclient.info --> POST /dana-na/auth/url_default/login.cgi (authenticate.cpp:179)
+20150318111703.192033 ncui[p10436.t10461] dsclient.info <-- 302 https://isecure.spectralogic.com/dana-na/auth/url_default/welcome.cgi?p=failed (authenticate.cpp:211)
+20150318111703.192071 ncui[p10436.t10461] dsclient.error state login failed, error 104 (dsclient.cpp:298)
+20150318111703.192155 ncui[p10436.t10461] ncapp.error Failed to connect/authenticate with IVE. Error 104 (ncapp.cpp:179)
+20150318111718.497366 ncui[p10436.t10453] ncui.info Sending kill signal (SIGQUIT) to ncsvc...  (ncapp.cpp:454)
+20150318111857.524266 ncui[p10503.t10528] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150318111902.759622 ncui[p10503.t10528] ncapp.info Version         : 7.1 
+Release Version : 7.1-0-Build18193
+Build Date/Time : Apr 25 2011
+Copyright 2001-2010 Juniper Networks
+ (ncapp.cpp:153)
+20150318111902.826289 ncui[p10503.t10528] dsclient.info state: kStateSignin (dsclient.cpp:256)
+20150318111902.826337 ncui[p10503.t10528] dsclient.info --> GET / (authenticate.cpp:179)
+20150318111902.842883 ncui[p10503.t10528] dsclient.info <-- 302 https://isecure.spectralogic.com/dana-na/auth/url_default/welcome.cgi (authenticate.cpp:211)
+20150318111902.842906 ncui[p10503.t10528] dsclient.info state: kStateWelcome (dsclient.cpp:264)
+20150318111902.842925 ncui[p10503.t10528] dsclient.info --> GET /dana-na/auth/url_default/welcome.cgi (authenticate.cpp:179)
+20150318111902.951913 ncui[p10503.t10528] dsclient.info <-- 200  (authenticate.cpp:211)
+20150318111902.952033 ncui[p10503.t10528] dsclient.info state: kStateLogin (dsclient.cpp:296)
+20150318111902.952053 ncui[p10503.t10528] dsclient.info --> POST /dana-na/auth/url_default/login.cgi (authenticate.cpp:179)
+20150318111903.26851 ncui[p10503.t10528] dsclient.info <-- 302 https://isecure.spectralogic.com/dana-na/auth/url_default/welcome.cgi?p=failed (authenticate.cpp:211)
+20150318111903.26890 ncui[p10503.t10528] dsclient.error state login failed, error 104 (dsclient.cpp:298)
+20150318111903.26972 ncui[p10503.t10528] ncapp.error Failed to connect/authenticate with IVE. Error 104 (ncapp.cpp:179)
+20150318111909.444459 ncui[p10503.t10520] ncui.info Sending kill signal (SIGQUIT) to ncsvc...  (ncapp.cpp:454)
+20150318114039.823565 ncui[p11085.t11110] ncapp.info New ncapp log level set to 3 (nccommon.cpp:75)
+20150318114045.653034 ncui[p11085.t11110] ncapp.info Version         : 7.1 
+Release Version : 7.1-0-Build18193
+Build Date/Time : Apr 25 2011
+Copyright 2001-2010 Juniper Networks
+ (ncapp.cpp:153)
+20150318114045.723179 ncui[p11085.t11110] dsssl.error ive_cert_hash = c31c754adab20276166450ccdaf70394, computed_hash = fa57866697548c86ef80600471ac51f5 (DSSSLSock.cpp:1421)
+20150318114045.723321 ncui[p11085.t11110] DSInet.error failed to connect to (isecure.spectralogic.com) error 100005 (dsinet.cpp:391)
+20150318114045.723341 ncui[p11085.t11110] dsclient.error unable to open URL: (https://isecure.spectralogic.com/) with error -7 (dsclient.cpp:244)
+20150318114045.723350 ncui[p11085.t11110] ncapp.error Failed to connect/authenticate with IVE. Error 2 (ncapp.cpp:179)
+20150318114101.963911 ncui[p11085.t11102] ncui.info Sending kill signal (SIGQUIT) to ncsvc...  (ncapp.cpp:454)

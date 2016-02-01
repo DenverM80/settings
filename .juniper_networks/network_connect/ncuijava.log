@@ -1,0 +1,132 @@
+20150318111306.605000 javanc[10336] ncui.notice Setting log level to 3
+20150318111312.831000 javanc[10336] ncui.notice Return value is -202
+20150318111657.942000 javanc[10436] ncui.notice Setting log level to 3
+20150318111703.192000 javanc[10436] ncui.notice Return value is -202
+20150318111713.209000 javanc[10436] ncui.notice Exit Flag is true. Signout not possible
+20150318111857.496000 javanc[10503] ncui.notice Setting log level to 3
+20150318111903.27000 javanc[10503] ncui.notice Return value is -202
+20150318114039.801000 javanc[11085] ncui.notice Setting log level to 3
+20150318114045.723000 javanc[11085] ncui.notice Return value is -301
+20150318123308.93000 javanc[0] ncui.notice Setting log level to 3
+20150318123308.119000 javanc[0] ncui.notice Invalid parameters in run.
+20150319101215.275000 javanc[0] ncui.notice Setting log level to 3
+20150319101220.21000 javanc[0] ncui.notice Return value is 0
+20150327091614.984000 javanc[0] ncui.notice Setting log level to 3
+20150328011708.30000 javanc[0] ncui.notice Return value is 0
+20150403075128.550000 javanc[0] ncui.notice Setting log level to 3
+20150408071628.633000 javanc[0] ncui.notice Setting log level to 3
+20150410145000.968000 javanc[0] ncui.notice Setting log level to 3
+20150411065041.401000 javanc[0] ncui.notice Return value is 0
+20150411101752.457000 javanc[11705] ncui.notice Setting log level to 3
+20150414162749.389000 javanc[0] ncui.notice Setting log level to 3
+20150417081027.912000 javanc[0] ncui.notice Setting log level to 3
+20150418090551.46000 javanc[0] ncui.notice Setting log level to 3
+20150422093416.629000 javanc[0] ncui.notice Setting log level to 3
+20150422171750.114000 javanc[0] ncui.notice Setting log level to 3
+20150506095924.643000 javanc[0] ncui.notice Setting log level to 3
+20150508083450.287000 javanc[0] ncui.notice Setting log level to 3
+20150509003504.116000 javanc[0] ncui.notice Return value is 0
+20150509183033.252000 javanc[21405] ncui.notice Setting log level to 3
+20150510103057.315000 javanc[21405] ncui.notice Return value is 0
+20150510131749.386000 javanc[29990] ncui.notice Setting log level to 3
+20150513092429.301000 javanc[0] ncui.notice Setting log level to 3
+20150514012520.838000 javanc[0] ncui.notice Return value is 0
+20150514203742.998000 javanc[0] ncui.notice Setting log level to 3
+20150518162400.345000 javanc[0] ncui.notice Setting log level to 3
+20150520072338.285000 javanc[0] ncui.notice Setting log level to 3
+20150521201038.680000 javanc[0] ncui.notice Setting log level to 3
+20150529085724.65000 javanc[0] ncui.notice Setting log level to 3
+20150530005732.753000 javanc[0] ncui.notice Return value is 0
+20150530092627.735000 javanc[16306] ncui.notice Setting log level to 3
+20150530213439.993000 javanc[16306] ncui.notice Return value is 0
+20150603081914.770000 javanc[0] ncui.notice Setting log level to 3
+20150611183029.179000 javanc[0] ncui.notice Setting log level to 3
+20150612103038.569000 javanc[0] ncui.notice Return value is 0
+20150612103301.123000 javanc[30280] ncui.notice Setting log level to 3
+20150613023307.750000 javanc[30280] ncui.notice Return value is 0
+20150613113512.584000 javanc[0] ncui.notice Setting log level to 3
+20150614033535.930000 javanc[0] ncui.notice Return value is 0
+20150614095724.832000 javanc[21747] ncui.notice Setting log level to 3
+20150615015757.981000 javanc[21747] ncui.notice Return value is 0
+20150624082421.888000 javanc[0] ncui.notice Setting log level to 3
+20150710100833.05000 javanc[0] ncui.notice Setting log level to 3
+20150710133150.409000 javanc[0] ncui.notice Setting log level to 3
+20150713102359.708000 javanc[0] ncui.notice Setting log level to 3
+20150714022409.717000 javanc[0] ncui.notice Return value is 0
+20150715082007.565000 javanc[0] ncui.notice Setting log level to 3
+20150716002011.837000 javanc[0] ncui.notice Return value is 0
+20150724083153.311000 javanc[0] ncui.notice Setting log level to 3
+20150724165012.914000 javanc[0] ncui.notice Setting log level to 3
+20150731093538.791000 javanc[0] ncui.notice Setting log level to 3
+20150801013539.177000 javanc[0] ncui.notice Return value is 0
+20150805101517.283000 javanc[0] ncui.notice Setting log level to 3
+20150806021430.583000 javanc[0] ncui.notice Return value is 0
+20150810095037.181000 javanc[0] ncui.notice Setting log level to 3
+20150811014951.161000 javanc[0] ncui.notice Return value is 0
+20150817214630.918000 javanc[0] ncui.notice Setting log level to 3
+20150818134634.300000 javanc[0] ncui.notice Return value is 0
+20150818135619.286000 javanc[0] ncui.notice Setting log level to 3
+20150819055626.44000 javanc[0] ncui.notice Return value is 0
+20150824075126.921000 javanc[0] ncui.notice Setting log level to 3
+20150824235142.664000 javanc[0] ncui.notice Return value is 0
+20150825162911.242000 javanc[0] ncui.notice Setting log level to 3
+20150828080326.723000 javanc[0] ncui.notice Setting log level to 3
+20150829000333.726000 javanc[0] ncui.notice Return value is 0
+20150831110129.415000 javanc[0] ncui.notice Setting log level to 3
+20150901030132.819000 javanc[0] ncui.notice Return value is 0
+20150903122628.165000 javanc[0] ncui.notice Setting log level to 3
+20150903150828.116000 javanc[0] ncui.notice Setting log level to 3
+20150904011906.539000 javanc[0] ncui.notice Return value is 0
+20150904075928.784000 javanc[14918] ncui.notice Setting log level to 3
+20150904110000.230000 javanc[0] ncui.notice Setting log level to 3
+20150905000009.106000 javanc[0] ncui.notice Return value is 0
+20150916084004.541000 javanc[0] ncui.notice Setting log level to 3
+20150917002637.294000 javanc[0] ncui.notice Return value is 0
+20150921084302.526000 javanc[0] ncui.notice Setting log level to 3
+20150928134333.77000 javanc[0] ncui.notice Setting log level to 3
+20150929054358.148000 javanc[0] ncui.notice Return value is 0
+20151001145921.833000 javanc[0] ncui.notice Setting log level to 3
+20151002065945.848000 javanc[0] ncui.notice Return value is 0
+20151013142937.586000 javanc[0] ncui.notice Setting log level to 3
+20151014062953.306000 javanc[0] ncui.notice Return value is 0
+20151016075634.692000 javanc[0] ncui.notice Setting log level to 3
+20151016235704.431000 javanc[0] ncui.notice Return value is 0
+20151021151218.193000 javanc[0] ncui.notice Setting log level to 3
+20151022071302.483000 javanc[0] ncui.notice Return value is 0
+20151022080922.242000 javanc[0] ncui.notice Setting log level to 3
+20151029080411.671000 javanc[0] ncui.notice Setting log level to 3
+20151030000350.608000 javanc[0] ncui.notice Return value is 0
+20151104121636.536000 javanc[20938] ncui.notice Setting log level to 3
+20151105041646.723000 javanc[20938] ncui.notice Return value is 0
+20151110134142.876000 javanc[0] ncui.notice Setting log level to 3
+20151111054221.998000 javanc[0] ncui.notice Return value is 0
+20151111081257.579000 javanc[0] ncui.notice Setting log level to 3
+20151112001320.922000 javanc[0] ncui.notice Return value is 0
+20151117090158.334000 javanc[0] ncui.notice Setting log level to 3
+20151125081417.31000 javanc[0] ncui.notice Setting log level to 3
+20151130092622.927000 javanc[0] ncui.notice Setting log level to 3
+20151201012643.39000 javanc[0] ncui.notice Return value is 0
+20151201091203.900000 javanc[0] ncui.notice Setting log level to 3
+20151201150143.160000 javanc[0] ncui.notice Return value is 0
+20151211084425.456000 javanc[0] ncui.notice Setting log level to 3
+20151212001359.587000 javanc[0] ncui.notice Return value is 0
+20151215094956.102000 javanc[0] ncui.notice Setting log level to 3
+20151216015001.769000 javanc[0] ncui.notice Return value is 0
+20151221095357.566000 javanc[0] ncui.notice Setting log level to 3
+20151223145257.565000 javanc[0] ncui.notice Setting log level to 3
+20151223211650.748000 javanc[0] ncui.notice Return value is 0
+20151224082020.39000 javanc[0] ncui.notice Setting log level to 3
+20151224193651.115000 javanc[0] ncui.notice Return value is 0
+20160108090945.537000 javanc[0] ncui.notice Setting log level to 3
+20160109011000.76000 javanc[0] ncui.notice Return value is 0
+20160113084751.151000 javanc[0] ncui.notice Setting log level to 3
+20160114004813.744000 javanc[0] ncui.notice Return value is 0
+20160115134031.454000 javanc[0] ncui.notice Setting log level to 3
+20160116054122.255000 javanc[0] ncui.notice Return value is 0
+20160120085130.381000 javanc[0] ncui.notice Setting log level to 3
+20160121005148.184000 javanc[0] ncui.notice Return value is 0
+20160128143930.241000 javanc[0] ncui.notice Setting log level to 3
+20160128215130.858000 javanc[0] ncui.notice Return value is 0
+20160129074841.26000 javanc[0] ncui.notice Setting log level to 3
+20160129182531.740000 javanc[0] ncui.notice Return value is 0
+20160201081125.273000 javanc[19775] ncui.notice Setting log level to 3

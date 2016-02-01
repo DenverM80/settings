@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=/opt/idea-IC-139.659.2/bin/idea.png
+Name[en_US]=IntelliJ
+Exec=/opt/idea-IC-143.1821.5/bin/idea.sh
+Comment[en_US]=IDEA
+Name=IntelliJ
+Comment=IDEA
+Icon=/opt/idea-IC-139.659.2/bin/idea.png

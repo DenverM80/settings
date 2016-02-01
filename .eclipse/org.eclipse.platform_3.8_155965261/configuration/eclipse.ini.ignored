@@ -1,0 +1,15 @@
+-startup
+plugins/org.eclipse.equinox.launcher_1.3.0.dist.jar
+--launcher.library
+plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.200.dist
+-showsplash
+org.eclipse.platform
+--launcher.XXMaxPermSize
+256m
+--launcher.defaultAction
+openFile
+-configuration
+../../../home/denverm/.eclipse/org.eclipse.platform_3.8_155965261/configuration
+-vmargs
+-Xms40m
+-Xmx384m

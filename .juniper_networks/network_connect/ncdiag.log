@@ -1,0 +1,86 @@
+20150318114315.394974 ncdiag[p11173.t11173] ncdiag.error 	usage: ./ncdiag -A [or]
+	usage: ./ncdiag -i -s -d -t -h -a -r <hostname> -k -v
+ (ncdiag.cpp:816)
+20150318114319.322830 ncdiag[p11175.t11175] ncdiag.info NC Diagnostics for Linux. 
+Version 1.0.
+Release Date/Time: Apr 25 2011 04:10:29
+ (ncdiag.cpp:845)
+20150318114319.322915 ncdiag[p11175.t11175] ncdiag.info +==============================================================================+
+ (ncdiag.cpp:60)
+20150318114319.322926 ncdiag[p11175.t11175] ncdiag.info |   Tests:			|    	 Results:		               |
+ (ncdiag.cpp:61)
+20150318114319.322934 ncdiag[p11175.t11175] ncdiag.info +==============================================================================+
+ (ncdiag.cpp:62)
+20150318114319.324833 ncdiag[p11175.t11175] ncdiag.info 
+       o  NC Installation Check 	  (ncdiag.cpp:82)
+20150318114319.324928 ncdiag[p11175.t11175] ncdiag.info Failed
+ (ncdiag.cpp:87)
+20150318114319.324966 ncdiag[p11175.t11175] ncdiag.info        o  NC Diagnostics 			
+ (ncdiag.cpp:848)
+20150318114319.333138 ncdiag[p11175.t11175] ncdiag.info              NC Service 		  (ncdiag.cpp:119)
+20150318114319.333223 ncdiag[p11175.t11175] ncdiag.info Not Running
+ (ncdiag.cpp:124)
+20150318114319.336085 ncdiag[p11175.t11175] ncdiag.info              NC Driver Test 		  (ncdiag.cpp:143)
+20150318114319.336198 ncdiag[p11175.t11175] ncdiag.info Passed
+ (ncdiag.cpp:154)
+20150318114319.337981 ncdiag[p11175.t11175] ncdiag.info              NC Tunnel Test 		  (ncdiag.cpp:166)
+20150318114319.338107 ncdiag[p11175.t11175] ncdiag.info Not established
+ (ncdiag.cpp:173)
+20150318114319.338140 ncdiag[p11175.t11175] ncdiag.info 
+ (ncdiag.cpp:572)
+20150318114319.338169 ncdiag[p11175.t11175] ncdiag.info        o  Host Details  			
+ (ncdiag.cpp:573)
+20150318114319.338181 ncdiag[p11175.t11175] ncdiag.info              Hostname 			  (ncdiag.cpp:578)
+20150318114319.338215 ncdiag[p11175.t11175] ncdiag.info dm-lt
+ (ncdiag.cpp:586)
+20150318114319.338229 ncdiag[p11175.t11175] ncdiag.info              Domainname 		  (ncdiag.cpp:589)
+20150318114319.338262 ncdiag[p11175.t11175] ncdiag.info (none)
+ (ncdiag.cpp:597)
+20150318114319.338276 ncdiag[p11175.t11175] ncdiag.info              IP Routing Enabled 	  (ncdiag.cpp:605)
+20150318114319.338328 ncdiag[p11175.t11175] ncdiag.info No
+ (ncdiag.cpp:617)
+20150318114319.338354 ncdiag[p11175.t11175] ncdiag.info              IP Loopback test 		  (ncdiag.cpp:627)
+20150318114322.338919 ncdiag[p11175.t11175] ncdiag.info Passed
+ (ncdiag.cpp:636)
+20150318114322.339004 ncdiag[p11175.t11175] ncdiag.info              Nameserver Details 	 (ncdiag.cpp:641)
+20150318114322.339087 ncdiag[p11175.t11175] ncdiag.info 
+                   127.0.1.1 		  (ncdiag.cpp:251)
+20150318114322.341067 ncdiag[p11175.t11175] ncdiag.info Ping Passed
+ (ncdiag.cpp:262)
+20150318114322.341123 ncdiag[p11175.t11175] ncdiag.info              Gateway Ping Test 			  (ncdiag.cpp:651)
+20150318114322.341297 ncdiag[p11175.t11175] ncdiag.info 
+                    10.0.0.1 		  (ncdiag.cpp:545)
+20150318114322.348330 ncdiag[p11175.t11175] ncdiag.info Ping Passed
+ (ncdiag.cpp:553)
+20150318114322.348429 ncdiag[p11175.t11175] ncdiag.info 
+ (ncdiag.cpp:664)
+20150318114322.348444 ncdiag[p11175.t11175] ncdiag.info        o  Network Connection Diagnostics  			
+ (ncdiag.cpp:665)
+20150318114322.348472 ncdiag[p11175.t11175] ncdiag.info 
+	     Interface:   		 lo
+ (ncdiag.cpp:706)
+20150318114322.348549 ncdiag[p11175.t11175] ncdiag.info 	     IP Address:  		 127.0.0.1
+ (ncdiag.cpp:708)
+20150318114322.348561 ncdiag[p11175.t11175] ncdiag.info 	     Netmask:     		 255.0.0.0
+ (ncdiag.cpp:712)
+20150318114322.348571 ncdiag[p11175.t11175] ncdiag.info 	     MTU:         		 65536
+ (ncdiag.cpp:723)
+20150318114322.348580 ncdiag[p11175.t11175] ncdiag.info 
+	     Interface:   		 wlan0
+ (ncdiag.cpp:706)
+20150318114322.348589 ncdiag[p11175.t11175] ncdiag.info 	     IP Address:  		 10.0.0.8
+ (ncdiag.cpp:708)
+20150318114322.348599 ncdiag[p11175.t11175] ncdiag.info 	     Netmask:     		 255.255.255.0
+ (ncdiag.cpp:712)
+20150318114322.348609 ncdiag[p11175.t11175] ncdiag.info 	     Broadcast:   		 10.0.0.255
+ (ncdiag.cpp:718)
+20150318114322.348630 ncdiag[p11175.t11175] ncdiag.info 	     MTU:         		 1500
+ (ncdiag.cpp:723)
+20150318114322.348644 ncdiag[p11175.t11175] ncdiag.info       o  Route Info 
+
+ (ncdiag.cpp:731)
+20150318114322.350111 ncdiag[p11175.t11175] ncdiag.info 
+       Finished running tests 
+ (ncdiag.cpp:70)
+20150318114322.350146 ncdiag[p11175.t11175] ncdiag.info +==============================================================================+
+ (ncdiag.cpp:71)

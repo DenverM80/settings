@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" type="text/css" href="lib/chrome-bootstrap.css"/>
+        <link rel="stylesheet" type="text/css" href="options.css"/>
+        <style>
+        .chrome-bootstrap header {
+            height: 126px;
+        }
+        .chrome-bootstrap header iframe {
+            height: 62px;
+            border: 0;
+            display: block;
+        }
+        </style>
+    </head>
+    <body class="chrome-bootstrap">
+        <div class="frame subframe">
+            <header>
+                <h1>Whitelist</h1>
+                <iframe name="submenu" src="submenu.html"></iframe>
+            </header>
+            <div class="content">
+                <div class="subview view">
+                    <div id="page" class="filter-set">
+                        <ul class="listbox highlightable"></ul>
+                    </div>
+                    <div id="selective" class="group-filter-set">
+                        <div>
+                            <ul class="listbox filter-names highlightable"></ul>
+                            <div class="vertical-line"></div>
+                            <div class="filter-patterns">
+                                <input type="text" class="filter-group-host" placeholder="www.example.com/*">
+                                <ul class="listbox filter-group highlightable"></ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="global" class="group-filter-set">
+                        <div>
+                            <ul class="listbox filter-names highlightable"></ul>
+                            <div class="vertical-line"></div>
+                            <div class="filter-patterns">
+                                <input type="text" class="filter-group-host" placeholder="*.example.com">
+                                <ul class="listbox filter-group highlightable"></ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <template class="listitem">
+            <li class="list-item">
+                <div class="editable">
+                    <a href="#" class="text"></a>
+                    <input type="text" spellcheck="false">
+                </div>
+                <a href="#" class="action">disable</a>
+                <a href="#" class="delete">delete</a>
+            </li>
+        </template>
+        <script type="text/javascript" src="global.js"></script>
+        <script type="text/javascript" src="frame.js"></script>
+        <script type="text/javascript" src="filters.js"></script>
+    </body>
+</html>

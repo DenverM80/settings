@@ -1,0 +1,24 @@
+body,html{margin:0;padding:0}
+.chrome-bootstrap{max-width: 350px;min-width: 260px;color:#303942;-webkit-user-select:none;font-family: 'Segoe UI',Tahoma,sans-serif;      font-size: 13px;}
+body.destroy .mainmenu #page,body.destroy .mainmenu #whitelist,body.destroy .mainmenu section.menu{display:none}
+hr{border:0;height:1px;background:#ccc;margin:1px}
+body.other .mainmenu{display:none}
+body.other .submenu{display:block}
+.menuitem{padding:0 25px;line-height:28px;white-space:nowrap}
+.mainmenu .menuitem:hover{background-color:#F5F5F5}
+.glasspane{cursor:wait;position:absolute;opacity:0;z-index:1;-webkit-user-select:none;top:0;bottom:0;left:0;right:0}
+.menuitem.disabled{pointer-events:none}
+.checked{background:url(graph/checkmark.svg) 5px center/14px no-repeat}
+.header{height:35px;position:relative;padding:0 10px;align-items:center;display:flex}
+#return{position:absolute;height:inherit;opacity:.6}
+#return:hover{opacity:1}
+#return,.menuitem{cursor:pointer}
+label span{-webkit-margin-start:4px}
+.submenu{/* width:220px; */display:none}
+.chrome-bootstrap section{max-width:none;-webkit-padding-start:12px;margin-bottom:10px}
+#hostname{font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;height:1.3em}
+.mainmenu .checkbox{margin-left:10px;margin-right:20px;white-space:nowrap}
+.chrome-bootstrap h3{text-align:center;flex:1}
+#info{pointer-events:none;white-space:normal;line-height:18px;margin:5px 0;min-height:1.3em}
+#info:before{margin:0 6px 0 -16px;background-position:-202px -107px;background-image:url(graph/statusbarButtonGlyphs.png);width:10px;height:10px;display:inline-block;content:''}
+.hidden{display:none}

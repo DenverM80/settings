@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" type="text/css" href="lib/chrome-bootstrap.css"/>
+        <link rel="stylesheet" type="text/css" href="options.css"/>
+        <style>
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: 0;
+            display: block;
+        }
+        .chrome-bootstrap .frame .navigation {
+            -webkit-margin-end: 0;
+        }
+        .chrome-bootstrap .frame .navigation.background {
+            z-index: 1;
+        }
+        .chrome-bootstrap .frame .view {
+            position: absolute;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            top: 0;
+            -webkit-margin-start: 0;
+            width: auto;
+        }
+        .chrome-bootstrap .frame .view > * {
+            right: 0;
+            left: 0;
+            bottom: 0;
+        }
+        </style>
+    </head>
+    <body class="chrome-bootstrap">
+        <div class="frame">
+            <div class="navigation">
+                <iframe name="mainmenu" src="mainmenu.html"></iframe>
+            </div>
+            <div class="mainview view">
+                <div id="settings"></div>
+                <div id="whitelist"></div>
+                <div id="blacklist"></div>
+                <div id="help"></div>
+            </div>
+        </div>
+        <script type="text/javascript" src="global.js"></script>
+        <script type="text/javascript" src="frame.js"></script>
+        <script type="text/javascript" src="options.js"></script>
+    </body>
+</html>

@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment=
+Terminal=false
+Name=P4V
+Exec=/opt/p4v/bin/p4v
+Type=Application
+Icon=/opt/p4v/lib/p4v/P4VResources/icons/P4-V_48x48
+Icon[en_US]=/opt/p4v/lib/p4v/P4VResources/icons/P4-V_48x48.png
